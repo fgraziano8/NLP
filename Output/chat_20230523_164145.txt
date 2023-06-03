@@ -1,0 +1,6 @@
+23/05/2023 16:41:45 - Chat avviata.
+16:41 - BOT - Digita il nome del documento che vuoi elaborare oppure &help per ottenere la lista dei comandi disponibili. 
+16:42 - YOU - qa_3_it.pdf
+16:42 - BOT - Caricato il file 'qa_3_it.pdf' (it)
+16:42 - YOU - Qual è la dotazione disponibile nell'ambito dell'ESI?
+16:42 - BOT -  2,7 miliardi di €

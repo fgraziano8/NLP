@@ -1,0 +1,297 @@
+21/05/2023 13:05:10.320697 - #################### START FIT ####################
+21/05/2023 13:05:10.321197 - 
+21/05/2023 13:05:10.322199 - JSON FIT LETTO
+21/05/2023 13:05:10.322199 - 
+21/05/2023 13:05:10.322699 - INIZIO A PROCESSARE qa_3_it.pdf (1 DI 7)
+21/05/2023 13:05:10.322699 - RILEVATO qa_3_it.pdf
+21/05/2023 13:05:10.323199 - DOCUMENTO qa_3_it.pdf - INIZIO TRADUZIONE
+21/05/2023 13:05:28.628852 - DOCUMENTO qa_3_it.pdf - FINE TRADUZIONE
+21/05/2023 13:05:28.632855 - DOCUMENTO qa_3_it.pdf - DOMANDA 1 DI 12
+21/05/2023 13:05:35.243053 - DOCUMENTO qa_3_it.pdf - DOMANDA 1 DI 12 - OK
+21/05/2023 13:05:36.310469 - DOCUMENTO qa_3_it.pdf - DOMANDA 2 DI 12
+21/05/2023 13:05:43.281577 - DOCUMENTO qa_3_it.pdf - DOMANDA 2 DI 12 - OK
+21/05/2023 13:05:44.351997 - DOCUMENTO qa_3_it.pdf - DOMANDA 3 DI 12
+21/05/2023 13:05:51.094189 - DOCUMENTO qa_3_it.pdf - DOMANDA 3 DI 12 - OK
+21/05/2023 13:05:52.155101 - DOCUMENTO qa_3_it.pdf - DOMANDA 4 DI 12
+21/05/2023 13:05:58.744206 - DOCUMENTO qa_3_it.pdf - DOMANDA 4 DI 12 - OK
+21/05/2023 13:05:59.813124 - DOCUMENTO qa_3_it.pdf - DOMANDA 5 DI 12
+21/05/2023 13:06:06.553528 - DOCUMENTO qa_3_it.pdf - DOMANDA 5 DI 12 - OK
+21/05/2023 13:06:07.601927 - DOCUMENTO qa_3_it.pdf - DOMANDA 6 DI 12
+21/05/2023 13:06:14.410083 - DOCUMENTO qa_3_it.pdf - DOMANDA 6 DI 12 - OK
+21/05/2023 13:06:15.464989 - DOCUMENTO qa_3_it.pdf - DOMANDA 7 DI 12
+21/05/2023 13:06:16.882475 - DOCUMENTO qa_3_it.pdf - DOMANDA 7 DI 12 - OK
+21/05/2023 13:06:17.921366 - DOCUMENTO qa_3_it.pdf - DOMANDA 8 DI 12
+21/05/2023 13:06:19.253018 - DOCUMENTO qa_3_it.pdf - DOMANDA 8 DI 12 - OK
+21/05/2023 13:06:20.325939 - DOCUMENTO qa_3_it.pdf - DOMANDA 9 DI 12
+21/05/2023 13:06:21.702481 - DOCUMENTO qa_3_it.pdf - DOMANDA 9 DI 12 - OK
+21/05/2023 13:06:22.764392 - DOCUMENTO qa_3_it.pdf - DOMANDA 10 DI 12
+21/05/2023 13:06:24.073562 - DOCUMENTO qa_3_it.pdf - DOMANDA 10 DI 12 - OK
+21/05/2023 13:06:25.124964 - DOCUMENTO qa_3_it.pdf - DOMANDA 11 DI 12
+21/05/2023 13:06:26.535944 - DOCUMENTO qa_3_it.pdf - DOMANDA 11 DI 12 - OK
+21/05/2023 13:06:27.581842 - DOCUMENTO qa_3_it.pdf - DOMANDA 12 DI 12
+21/05/2023 13:06:28.955384 - DOCUMENTO qa_3_it.pdf - DOMANDA 12 DI 12 - OK
+21/05/2023 13:06:30.009289 - FINITO DI PROCESSARE qa_3_it.pdf
+21/05/2023 13:06:30.009289 - 
+21/05/2023 13:06:30.010291 - INIZIO A PROCESSARE rac_6_it.pdf (2 DI 7)
+21/05/2023 13:06:30.010291 - RILEVATO rac_6_it.pdf
+21/05/2023 13:06:30.010791 - DOCUMENTO rac_6_it.pdf - INIZIO TRADUZIONE
+21/05/2023 13:07:22.966539 - DOCUMENTO rac_6_it.pdf - FINE TRADUZIONE
+21/05/2023 13:07:22.967539 - DOCUMENTO rac_6_it.pdf - DOMANDA 1 DI 12
+21/05/2023 13:07:29.930453 - DOCUMENTO rac_6_it.pdf - DOMANDA 1 DI 12 - OK
+21/05/2023 13:07:31.010881 - DOCUMENTO rac_6_it.pdf - DOMANDA 2 DI 12
+21/05/2023 13:07:38.035022 - DOCUMENTO rac_6_it.pdf - DOMANDA 2 DI 12 - OK
+21/05/2023 13:07:39.095431 - DOCUMENTO rac_6_it.pdf - DOMANDA 3 DI 12
+21/05/2023 13:07:46.065949 - DOCUMENTO rac_6_it.pdf - DOMANDA 3 DI 12 - OK
+21/05/2023 13:07:47.121855 - DOCUMENTO rac_6_it.pdf - DOMANDA 4 DI 12
+21/05/2023 13:07:53.960179 - DOCUMENTO rac_6_it.pdf - DOMANDA 4 DI 12 - OK
+21/05/2023 13:07:55.044110 - DOCUMENTO rac_6_it.pdf - DOMANDA 5 DI 12
+21/05/2023 13:08:01.786887 - DOCUMENTO rac_6_it.pdf - DOMANDA 5 DI 12 - OK
+21/05/2023 13:08:02.876823 - DOCUMENTO rac_6_it.pdf - DOMANDA 6 DI 12
+21/05/2023 13:08:09.710975 - DOCUMENTO rac_6_it.pdf - DOMANDA 6 DI 12 - OK
+21/05/2023 13:08:10.764380 - DOCUMENTO rac_6_it.pdf - DOMANDA 7 DI 12
+21/05/2023 13:08:12.510956 - DOCUMENTO rac_6_it.pdf - DOMANDA 7 DI 12 - OK
+21/05/2023 13:08:13.559858 - DOCUMENTO rac_6_it.pdf - DOMANDA 8 DI 12
+21/05/2023 13:08:15.228322 - DOCUMENTO rac_6_it.pdf - DOMANDA 8 DI 12 - OK
+21/05/2023 13:08:16.292735 - DOCUMENTO rac_6_it.pdf - DOMANDA 9 DI 12
+21/05/2023 13:08:17.930579 - DOCUMENTO rac_6_it.pdf - DOMANDA 9 DI 12 - OK
+21/05/2023 13:08:18.990988 - DOCUMENTO rac_6_it.pdf - DOMANDA 10 DI 12
+21/05/2023 13:08:20.642786 - DOCUMENTO rac_6_it.pdf - DOMANDA 10 DI 12 - OK
+21/05/2023 13:08:21.680178 - DOCUMENTO rac_6_it.pdf - DOMANDA 11 DI 12
+21/05/2023 13:08:23.300987 - DOCUMENTO rac_6_it.pdf - DOMANDA 11 DI 12 - OK
+21/05/2023 13:08:24.347385 - DOCUMENTO rac_6_it.pdf - DOMANDA 12 DI 12
+21/05/2023 13:08:25.986789 - DOCUMENTO rac_6_it.pdf - DOMANDA 12 DI 12 - OK
+21/05/2023 13:08:27.045697 - FINITO DI PROCESSARE rac_6_it.pdf
+21/05/2023 13:08:27.046198 - 
+21/05/2023 13:08:27.046699 - INIZIO A PROCESSARE com_16_it.pdf (3 DI 7)
+21/05/2023 13:08:27.047199 - RILEVATO com_16_it.pdf
+21/05/2023 13:08:27.047700 - DOCUMENTO com_16_it.pdf - INIZIO TRADUZIONE
+21/05/2023 13:09:48.361997 - DOCUMENTO com_16_it.pdf - FINE TRADUZIONE
+21/05/2023 13:09:48.362998 - DOCUMENTO com_16_it.pdf - DOMANDA 1 DI 12
+21/05/2023 13:09:55.487821 - DOCUMENTO com_16_it.pdf - DOMANDA 1 DI 12 - OK
+21/05/2023 13:09:56.560241 - DOCUMENTO com_16_it.pdf - DOMANDA 2 DI 12
+21/05/2023 13:10:03.647492 - DOCUMENTO com_16_it.pdf - DOMANDA 2 DI 12 - OK
+21/05/2023 13:10:04.701396 - DOCUMENTO com_16_it.pdf - DOMANDA 3 DI 12
+21/05/2023 13:10:11.867104 - DOCUMENTO com_16_it.pdf - DOMANDA 3 DI 12 - OK
+21/05/2023 13:10:12.944029 - DOCUMENTO com_16_it.pdf - DOMANDA 4 DI 12
+21/05/2023 13:10:20.264380 - DOCUMENTO com_16_it.pdf - DOMANDA 4 DI 12 - OK
+21/05/2023 13:10:21.336800 - DOCUMENTO com_16_it.pdf - DOMANDA 5 DI 12
+21/05/2023 13:10:28.669504 - DOCUMENTO com_16_it.pdf - DOMANDA 5 DI 12 - OK
+21/05/2023 13:10:29.723408 - DOCUMENTO com_16_it.pdf - DOMANDA 6 DI 12
+21/05/2023 13:10:37.015859 - DOCUMENTO com_16_it.pdf - DOMANDA 6 DI 12 - OK
+21/05/2023 13:10:38.081275 - DOCUMENTO com_16_it.pdf - DOMANDA 7 DI 12
+21/05/2023 13:10:40.175363 - DOCUMENTO com_16_it.pdf - DOMANDA 7 DI 12 - OK
+21/05/2023 13:10:41.231770 - DOCUMENTO com_16_it.pdf - DOMANDA 8 DI 12
+21/05/2023 13:10:43.145425 - DOCUMENTO com_16_it.pdf - DOMANDA 8 DI 12 - OK
+21/05/2023 13:10:44.201832 - DOCUMENTO com_16_it.pdf - DOMANDA 9 DI 12
+21/05/2023 13:10:46.121381 - DOCUMENTO com_16_it.pdf - DOMANDA 9 DI 12 - OK
+21/05/2023 13:10:47.191300 - DOCUMENTO com_16_it.pdf - DOMANDA 10 DI 12
+21/05/2023 13:10:49.113481 - DOCUMENTO com_16_it.pdf - DOMANDA 10 DI 12 - OK
+21/05/2023 13:10:50.172889 - DOCUMENTO com_16_it.pdf - DOMANDA 11 DI 12
+21/05/2023 13:10:52.071060 - DOCUMENTO com_16_it.pdf - DOMANDA 11 DI 12 - OK
+21/05/2023 13:10:53.121461 - DOCUMENTO com_16_it.pdf - DOMANDA 12 DI 12
+21/05/2023 13:10:55.069139 - DOCUMENTO com_16_it.pdf - DOMANDA 12 DI 12 - OK
+21/05/2023 13:10:56.130550 - FINITO DI PROCESSARE com_16_it.pdf
+21/05/2023 13:10:56.130550 - 
+21/05/2023 13:10:56.131050 - INIZIO A PROCESSARE rel_40_it.pdf (4 DI 7)
+21/05/2023 13:10:56.131551 - RILEVATO rel_40_it.pdf
+21/05/2023 13:10:56.131551 - DOCUMENTO rel_40_it.pdf - INIZIO TRADUZIONE
+21/05/2023 13:12:10.491568 - DOCUMENTO rel_40_it.pdf - FINE TRADUZIONE
+21/05/2023 13:12:10.492569 - DOCUMENTO rel_40_it.pdf - DOMANDA 1 DI 12
+21/05/2023 13:12:17.623538 - DOCUMENTO rel_40_it.pdf - DOMANDA 1 DI 12 - OK
+21/05/2023 13:12:18.674941 - DOCUMENTO rel_40_it.pdf - DOMANDA 2 DI 12
+21/05/2023 13:12:25.718130 - DOCUMENTO rel_40_it.pdf - DOMANDA 2 DI 12 - OK
+21/05/2023 13:12:26.780043 - DOCUMENTO rel_40_it.pdf - DOMANDA 3 DI 12
+21/05/2023 13:12:34.162279 - DOCUMENTO rel_40_it.pdf - DOMANDA 3 DI 12 - OK
+21/05/2023 13:12:35.222188 - DOCUMENTO rel_40_it.pdf - DOMANDA 4 DI 12
+21/05/2023 13:12:42.191442 - DOCUMENTO rel_40_it.pdf - DOMANDA 4 DI 12 - OK
+21/05/2023 13:12:43.242345 - DOCUMENTO rel_40_it.pdf - DOMANDA 5 DI 12
+21/05/2023 13:12:50.412353 - DOCUMENTO rel_40_it.pdf - DOMANDA 5 DI 12 - OK
+21/05/2023 13:12:51.458251 - DOCUMENTO rel_40_it.pdf - DOMANDA 6 DI 12
+21/05/2023 13:12:58.590794 - DOCUMENTO rel_40_it.pdf - DOMANDA 6 DI 12 - OK
+21/05/2023 13:12:59.656710 - DOCUMENTO rel_40_it.pdf - DOMANDA 7 DI 12
+21/05/2023 13:13:01.723994 - DOCUMENTO rel_40_it.pdf - DOMANDA 7 DI 12 - OK
+21/05/2023 13:13:02.769391 - DOCUMENTO rel_40_it.pdf - DOMANDA 8 DI 12
+21/05/2023 13:13:04.647016 - DOCUMENTO rel_40_it.pdf - DOMANDA 8 DI 12 - OK
+21/05/2023 13:13:05.705424 - DOCUMENTO rel_40_it.pdf - DOMANDA 9 DI 12
+21/05/2023 13:13:07.603536 - DOCUMENTO rel_40_it.pdf - DOMANDA 9 DI 12 - OK
+21/05/2023 13:13:08.657943 - DOCUMENTO rel_40_it.pdf - DOMANDA 10 DI 12
+21/05/2023 13:13:10.515597 - DOCUMENTO rel_40_it.pdf - DOMANDA 10 DI 12 - OK
+21/05/2023 13:13:11.560995 - DOCUMENTO rel_40_it.pdf - DOMANDA 11 DI 12
+21/05/2023 13:13:13.424593 - DOCUMENTO rel_40_it.pdf - DOMANDA 11 DI 12 - OK
+21/05/2023 13:13:14.473993 - DOCUMENTO rel_40_it.pdf - DOMANDA 12 DI 12
+21/05/2023 13:13:16.503729 - DOCUMENTO rel_40_it.pdf - DOMANDA 12 DI 12 - OK
+21/05/2023 13:13:17.562638 - FINITO DI PROCESSARE rel_40_it.pdf
+21/05/2023 13:13:17.562638 - 
+21/05/2023 13:13:17.563639 - INIZIO A PROCESSARE leg_116_it.pdf (5 DI 7)
+21/05/2023 13:13:17.563639 - RILEVATO leg_116_it.pdf
+21/05/2023 13:13:17.564140 - DOCUMENTO leg_116_it.pdf - INIZIO TRADUZIONE
+21/05/2023 13:24:55.480138 - DOCUMENTO leg_116_it.pdf - FINE TRADUZIONE
+21/05/2023 13:24:55.480638 - DOCUMENTO leg_116_it.pdf - DOMANDA 1 DI 12
+21/05/2023 13:25:08.845922 - DOCUMENTO leg_116_it.pdf - DOMANDA 1 DI 12 - OK
+21/05/2023 13:25:09.918845 - DOCUMENTO leg_116_it.pdf - DOMANDA 2 DI 12
+21/05/2023 13:25:23.397384 - DOCUMENTO leg_116_it.pdf - DOMANDA 2 DI 12 - OK
+21/05/2023 13:25:24.454292 - DOCUMENTO leg_116_it.pdf - DOMANDA 3 DI 12
+21/05/2023 13:25:36.998329 - DOCUMENTO leg_116_it.pdf - DOMANDA 3 DI 12 - OK
+21/05/2023 13:25:38.066747 - DOCUMENTO leg_116_it.pdf - DOMANDA 4 DI 12
+21/05/2023 13:25:50.573308 - DOCUMENTO leg_116_it.pdf - DOMANDA 4 DI 12 - OK
+21/05/2023 13:25:51.631717 - DOCUMENTO leg_116_it.pdf - DOMANDA 5 DI 12
+21/05/2023 13:26:04.257043 - DOCUMENTO leg_116_it.pdf - DOMANDA 5 DI 12 - OK
+21/05/2023 13:26:05.326961 - DOCUMENTO leg_116_it.pdf - DOMANDA 6 DI 12
+21/05/2023 13:26:18.081838 - DOCUMENTO leg_116_it.pdf - DOMANDA 6 DI 12 - OK
+21/05/2023 13:26:19.139748 - DOCUMENTO leg_116_it.pdf - DOMANDA 7 DI 12
+21/05/2023 13:26:26.804887 - DOCUMENTO leg_116_it.pdf - DOMANDA 7 DI 12 - OK
+21/05/2023 13:26:27.858791 - DOCUMENTO leg_116_it.pdf - DOMANDA 8 DI 12
+21/05/2023 13:26:35.459754 - DOCUMENTO leg_116_it.pdf - DOMANDA 8 DI 12 - OK
+21/05/2023 13:26:36.511657 - DOCUMENTO leg_116_it.pdf - DOMANDA 9 DI 12
+21/05/2023 13:26:43.826910 - DOCUMENTO leg_116_it.pdf - DOMANDA 9 DI 12 - OK
+21/05/2023 13:26:44.896328 - DOCUMENTO leg_116_it.pdf - DOMANDA 10 DI 12
+21/05/2023 13:26:52.321420 - DOCUMENTO leg_116_it.pdf - DOMANDA 10 DI 12 - OK
+21/05/2023 13:26:53.370821 - DOCUMENTO leg_116_it.pdf - DOMANDA 11 DI 12
+21/05/2023 13:27:00.796185 - DOCUMENTO leg_116_it.pdf - DOMANDA 11 DI 12 - OK
+21/05/2023 13:27:01.846586 - DOCUMENTO leg_116_it.pdf - DOMANDA 12 DI 12
+21/05/2023 13:27:09.352669 - DOCUMENTO leg_116_it.pdf - DOMANDA 12 DI 12 - OK
+21/05/2023 13:27:10.411077 - FINITO DI PROCESSARE leg_116_it.pdf
+21/05/2023 13:27:10.411077 - 
+21/05/2023 13:27:10.411578 - INIZIO A PROCESSARE eu_204_it.pdf (6 DI 7)
+21/05/2023 13:27:10.412079 - RILEVATO eu_204_it.pdf
+21/05/2023 13:27:10.412579 - DOCUMENTO eu_204_it.pdf - INIZIO TRADUZIONE
+21/05/2023 13:39:46.635639 - DOCUMENTO eu_204_it.pdf - FINE TRADUZIONE
+21/05/2023 13:39:46.636640 - DOCUMENTO eu_204_it.pdf - DOMANDA 1 DI 12
+21/05/2023 13:40:00.486440 - DOCUMENTO eu_204_it.pdf - DOMANDA 1 DI 12 - OK
+21/05/2023 13:40:01.563364 - DOCUMENTO eu_204_it.pdf - DOMANDA 2 DI 12
+21/05/2023 13:40:18.845858 - DOCUMENTO eu_204_it.pdf - DOMANDA 2 DI 12 - OK
+21/05/2023 13:40:19.895259 - DOCUMENTO eu_204_it.pdf - DOMANDA 3 DI 12
+21/05/2023 13:40:33.277508 - DOCUMENTO eu_204_it.pdf - DOMANDA 3 DI 12 - OK
+21/05/2023 13:40:34.335916 - DOCUMENTO eu_204_it.pdf - DOMANDA 4 DI 12
+21/05/2023 13:40:47.594980 - DOCUMENTO eu_204_it.pdf - DOMANDA 4 DI 12 - OK
+21/05/2023 13:40:48.655391 - DOCUMENTO eu_204_it.pdf - DOMANDA 5 DI 12
+21/05/2023 13:41:01.755731 - DOCUMENTO eu_204_it.pdf - DOMANDA 5 DI 12 - OK
+21/05/2023 13:41:02.826150 - DOCUMENTO eu_204_it.pdf - DOMANDA 6 DI 12
+21/05/2023 13:41:16.005649 - DOCUMENTO eu_204_it.pdf - DOMANDA 6 DI 12 - OK
+21/05/2023 13:41:17.056052 - DOCUMENTO eu_204_it.pdf - DOMANDA 7 DI 12
+21/05/2023 13:41:25.029905 - DOCUMENTO eu_204_it.pdf - DOMANDA 7 DI 12 - OK
+21/05/2023 13:41:26.081306 - DOCUMENTO eu_204_it.pdf - DOMANDA 8 DI 12
+21/05/2023 13:41:33.992514 - DOCUMENTO eu_204_it.pdf - DOMANDA 8 DI 12 - OK
+21/05/2023 13:41:35.062432 - DOCUMENTO eu_204_it.pdf - DOMANDA 9 DI 12
+21/05/2023 13:41:43.056119 - DOCUMENTO eu_204_it.pdf - DOMANDA 9 DI 12 - OK
+21/05/2023 13:41:44.119532 - DOCUMENTO eu_204_it.pdf - DOMANDA 10 DI 12
+21/05/2023 13:41:52.285626 - DOCUMENTO eu_204_it.pdf - DOMANDA 10 DI 12 - OK
+21/05/2023 13:41:53.343034 - DOCUMENTO eu_204_it.pdf - DOMANDA 11 DI 12
+21/05/2023 13:42:01.340893 - DOCUMENTO eu_204_it.pdf - DOMANDA 11 DI 12 - OK
+21/05/2023 13:42:02.388793 - DOCUMENTO eu_204_it.pdf - DOMANDA 12 DI 12
+21/05/2023 13:42:10.284009 - DOCUMENTO eu_204_it.pdf - DOMANDA 12 DI 12 - OK
+21/05/2023 13:42:11.343418 - FINITO DI PROCESSARE eu_204_it.pdf
+21/05/2023 13:42:11.343418 - 
+21/05/2023 13:42:11.343919 - INIZIO A PROCESSARE qa_5_it.pdf (7 DI 7)
+21/05/2023 13:42:11.344419 - RILEVATO qa_5_it.pdf
+21/05/2023 13:42:11.344919 - DOCUMENTO qa_5_it.pdf - INIZIO TRADUZIONE
+21/05/2023 13:42:41.253449 - DOCUMENTO qa_5_it.pdf - FINE TRADUZIONE
+21/05/2023 13:42:41.254450 - DOCUMENTO qa_5_it.pdf - DOMANDA 1 DI 8
+21/05/2023 13:42:48.096479 - DOCUMENTO qa_5_it.pdf - DOMANDA 1 DI 8 - OK
+21/05/2023 13:42:49.165897 - DOCUMENTO qa_5_it.pdf - DOMANDA 2 DI 8
+21/05/2023 13:42:56.147384 - DOCUMENTO qa_5_it.pdf - DOMANDA 2 DI 8 - OK
+21/05/2023 13:42:57.202789 - DOCUMENTO qa_5_it.pdf - DOMANDA 3 DI 8
+21/05/2023 13:43:04.022249 - DOCUMENTO qa_5_it.pdf - DOMANDA 3 DI 8 - OK
+21/05/2023 13:43:05.120691 - DOCUMENTO qa_5_it.pdf - DOMANDA 4 DI 8
+21/05/2023 13:43:11.783635 - DOCUMENTO qa_5_it.pdf - DOMANDA 4 DI 8 - OK
+21/05/2023 13:43:12.907600 - DOCUMENTO qa_5_it.pdf - DOMANDA 5 DI 8
+21/05/2023 13:43:14.457827 - DOCUMENTO qa_5_it.pdf - DOMANDA 5 DI 8 - OK
+21/05/2023 13:43:15.495717 - DOCUMENTO qa_5_it.pdf - DOMANDA 6 DI 8
+21/05/2023 13:43:16.946957 - DOCUMENTO qa_5_it.pdf - DOMANDA 6 DI 8 - OK
+21/05/2023 13:43:18.013871 - DOCUMENTO qa_5_it.pdf - DOMANDA 7 DI 8
+21/05/2023 13:43:19.506112 - DOCUMENTO qa_5_it.pdf - DOMANDA 7 DI 8 - OK
+21/05/2023 13:43:20.555012 - DOCUMENTO qa_5_it.pdf - DOMANDA 8 DI 8
+21/05/2023 13:43:21.975270 - DOCUMENTO qa_5_it.pdf - DOMANDA 8 DI 8 - OK
+21/05/2023 13:43:23.038182 - FINITO DI PROCESSARE qa_5_it.pdf
+21/05/2023 13:43:23.038682 - 
+21/05/2023 13:43:23.040184 - #################### END FIT ####################
+
+
+
+
+
+
+#########################################################################################################################################
+
+
+
+
+
+21/05/2023 13:48:19.460329 - 
+21/05/2023 13:48:19.460830 - 
+21/05/2023 13:48:19.461330 - 
+21/05/2023 13:48:19.461330 - #################### STATISTICHE PARZIALI ####################
+21/05/2023 13:48:19.461831 - 
+21/05/2023 13:48:19.462832 - Documento: qa_3_it.pdf - Numero di pagine: 3 - Numero di domande: 12 - Durata elaborazione: 0:01:19.686590 - Score medio: 0.32658665588436026 - Correttezza media: 0.37499838322401047
+21/05/2023 13:48:19.463332 - Documento: rac_6_it.pdf - Numero di pagine: 6 - Numero di domande: 12 - Durata elaborazione: 0:01:57.035406 - Score medio: 0.32323284073208924 - Correttezza media: 0.642996136797592
+21/05/2023 13:48:19.463833 - Documento: com_16_it.pdf - Numero di pagine: 16 - Numero di domande: 12 - Durata elaborazione: 0:02:29.083851 - Score medio: 0.3721844710635196 - Correttezza media: 0.3449434569726388
+21/05/2023 13:48:19.464332 - Documento: rel_40_it.pdf - Numero di pagine: 40 - Numero di domande: 12 - Durata elaborazione: 0:02:21.431588 - Score medio: 0.28295736014842987 - Correttezza media: 0.410748344535629
+21/05/2023 13:48:19.464833 - Documento: leg_116_it.pdf - Numero di pagine: 116 - Numero di domande: 12 - Durata elaborazione: 0:13:52.847438 - Score medio: 0.5036079076429208 - Correttezza media: 0.4657831992954016
+21/05/2023 13:48:19.465334 - Documento: eu_204_it.pdf - Numero di pagine: 204 - Numero di domande: 12 - Durata elaborazione: 0:15:00.931840 - Score medio: 0.2142557967066144 - Correttezza media: 0.18253883665117124
+21/05/2023 13:48:19.465834 - Documento: qa_5_it.pdf - Numero di pagine: 5 - Numero di domande: 8 - Durata elaborazione: 0:01:11.694263 - Score medio: 0.24474056717008352 - Correttezza media: 0.10383946821093559
+21/05/2023 13:48:19.465834 - 
+21/05/2023 13:48:19.465834 - 
+21/05/2023 13:48:19.466335 - 
+21/05/2023 13:48:19.466835 - #################### STATISTICHE GLOBALI ####################
+21/05/2023 13:48:19.466835 - 
+21/05/2023 13:48:19.467336 - Durata minima di elaborazione tra tutti i documenti: 0:01:11.694263 per il documento qa_5_it.pdf
+21/05/2023 13:48:19.467336 - Durata massima di elaborazione tra tutti i documenti: 0:15:00.931840 per il documento eu_204_it.pdf
+21/05/2023 13:48:19.467836 - Durata media di elaborazione tra tutti i documenti: 327.53013942857143
+21/05/2023 13:48:19.467836 - 
+21/05/2023 13:48:19.468337 - Durata minima di elaborazione tra i documenti in italiano: 0:01:11.694263 per il documento qa_5_it.pdf
+21/05/2023 13:48:19.468337 - Durata massima di elaborazione tra i documenti in italiano: 0:15:00.931840 per il documento eu_204_it.pdf
+21/05/2023 13:48:19.468837 - Durata media di elaborazione tra i documenti in italiano: 327.53013942857143
+21/05/2023 13:48:19.468837 - 
+21/05/2023 13:48:19.469337 - Durata minima di elaborazione tra i documenti in inglese: None per il documento 
+21/05/2023 13:48:19.469337 - Durata massima di elaborazione tra i documenti in inglese: None per il documento 
+21/05/2023 13:48:19.469838 - Durata media di elaborazione tra i documenti in inglese: 0
+21/05/2023 13:48:19.469838 - 
+21/05/2023 13:48:19.470338 - Durata minima di elaborazione tra tutte le domande: 0:00:01.309170 per il documento qa_3_it.pdf
+21/05/2023 13:48:19.470338 -      Testo della domanda: Who manages ESI and decides on which actions will be funded?
+21/05/2023 13:48:19.470838 - Durata massima di elaborazione tra tutte le domande: 0:00:17.282494 per il documento eu_204_it.pdf
+21/05/2023 13:48:19.470838 -      Testo della domanda: Quali funzioni esercit il Consiglio, congiuntamente al Parlamento europeo?
+21/05/2023 13:48:19.471339 - Durata media di elaborazione tra tutte le domande: 6.2110355125000005
+21/05/2023 13:48:19.471839 - 
+21/05/2023 13:48:19.471839 - Durata minima di elaborazione tra tutte le domande in italiano: 0:00:01.309170 per il documento qa_3_it.pdf
+21/05/2023 13:48:19.472339 -      Testo della domanda: Who manages ESI and decides on which actions will be funded?
+21/05/2023 13:48:19.472339 - Durata massima di elaborazione tra tutte le domande in italiano: 0:00:17.282494 per il documento eu_204_it.pdf
+21/05/2023 13:48:19.472840 -      Testo della domanda: Quali funzioni esercit il Consiglio, congiuntamente al Parlamento europeo?
+21/05/2023 13:48:19.472840 - Durata media di elaborazione tra tutte le domande in italiano: 6.2110355125000005
+21/05/2023 13:48:19.477345 - 
+21/05/2023 13:48:19.477844 - Durata minima di elaborazione tra tutte le domande in inglese: None per il documento 
+21/05/2023 13:48:19.478345 -      Testo della domanda: 
+21/05/2023 13:48:19.478345 - Durata massima di elaborazione tra tutte le domande in inglese: None per il documento 
+21/05/2023 13:48:19.478845 -      Testo della domanda: 
+21/05/2023 13:48:19.478845 - Durata media di elaborazione tra tutte le domande in inglese: 0
+21/05/2023 13:48:19.479345 - 
+21/05/2023 13:48:19.479345 - Score minimo tra le risposte alle domande di tutti i documenti: 8.882856491254643e-05
+21/05/2023 13:48:19.479846 - Score massimo tra le risposte alle domande di tutti i documenti: 0.8946918845176697
+21/05/2023 13:48:19.479846 - Score medio tra le risposte alle domande di tutti i documenti: 0.32789781154369846
+21/05/2023 13:48:19.480346 - 
+21/05/2023 13:48:19.480346 - Score minimo tra le risposte alle domande di tutti i documenti in italiano: 8.882856491254643e-05
+21/05/2023 13:48:19.480847 - Score massimo tra le risposte alle domande di tutti i documenti in italiano: 0.8946918845176697
+21/05/2023 13:48:19.480847 - Score medio tra le risposte alle domande di tutti i documenti in italiano: 0.32789781154369846
+21/05/2023 13:48:19.481347 - 
+21/05/2023 13:48:19.481347 - Score minimo tra le risposte alle domande di tutti i documenti in inglese: None
+21/05/2023 13:48:19.481848 - Score massimo tra le risposte alle domande di tutti i documenti in inglese: None
+21/05/2023 13:48:19.481848 - Score medio tra le risposte alle domande di tutti i documenti in inglese: 0
+21/05/2023 13:48:19.482348 - 
+21/05/2023 13:48:19.482348 - Correttezza minima tra le risposte alle domande di tutti i documenti: -0.09678564965724945
+21/05/2023 13:48:19.482848 - Correttezza massima tra le risposte alle domande di tutti i documenti: 0.9926724433898926
+21/05/2023 13:48:19.482848 - Correttezza media tra le risposte alle domande di tutti i documenti: 0.37368520044256004
+21/05/2023 13:48:19.483349 - 
+21/05/2023 13:48:19.483349 - Correttezza minima tra le risposte alle domande di tutti i documenti in italiano: -0.09678564965724945
+21/05/2023 13:48:19.483849 - Correttezza massima tra le risposte alle domande di tutti i documenti in italiano: 0.9926724433898926
+21/05/2023 13:48:19.483849 - Correttezza media tra le risposte alle domande di tutti i documenti in italiano: 0.37368520044256004
+21/05/2023 13:48:19.484350 - 
+21/05/2023 13:48:19.484350 - Correttezza minima tra le risposte alle domande di tutti i documenti in inglese: None
+21/05/2023 13:48:19.484850 - Correttezza massima tra le risposte alle domande di tutti i documenti in inglese: None
+21/05/2023 13:48:19.484850 - Correttezza media tra le risposte alle domande di tutti i documenti in inglese: 0
+21/05/2023 13:48:19.485351 - 
+21/05/2023 13:48:19.485351 - Incertezza minima nella traduzione di domande e risposte sottoposte ai documenti: 0.7457669675350189
+21/05/2023 13:48:19.485851 - Incertezza massima nella traduzione di domande e risposte sottoposte ai documenti: -0.9114436730742455
+21/05/2023 13:48:19.485851 - Incertezza media nella traduzione di domande e risposte sottoposte ai documenti: -0.0012665887363255024
+21/05/2023 13:48:19.486351 - (I valori positivi indicano un guadagno)
+21/05/2023 13:48:19.486351 - 
+21/05/2023 13:48:19.486852 - 
+

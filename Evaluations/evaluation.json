@@ -1,0 +1,1220 @@
+{
+	"qa_3_en.pdf": {
+		"name": "qa_3_en.pdf",
+		"page_num": "3",
+		"lang": "en",
+		"qa_list": [
+			{
+				"id": "1",
+				"question": "What is the Emergency Support Instrument?",
+				"lang": "en",
+				"question_page": "1",
+				"expected_answer": "The Emergency Support Instrument (ESI) allows the EU budget to step in to provide emergency support."
+			},
+			{
+				"id": "2",
+				"question": "What is the budget available under the ESI?",
+				"lang": "en",
+				"question_page": "1",
+				"expected_answer": "€2.7 billion."
+			},
+			{
+				"id": "3",
+				"question": "How can Member States contribute to the setting of priorities under ESI?",
+				"lang": "en",
+				"question_page": "2",
+				"expected_answer": "The Commission uses several channels to gather information from Member States on their needs, resources and ongoing initiatives to inform its assessment of the relevance and EU added value of potential actions."
+			},
+			{
+				"id": "4",
+				"question": "Who manages ESI and decides on which actions will be funded?",
+				"lang": "en",
+				"question_page": "1",
+				"expected_answer": "The Commission."
+			},
+			{
+				"id": "5",
+				"question": "Who can apply for ESI funding and how?",
+				"lang": "en",
+				"question_page": "2",
+				"expected_answer": "This depends on the implementation mechanism for each action under ESI."
+			},
+			{
+				"id": "6",
+				"question": "What is the difference between ESI, rescEU and the Joint Procurement Agreement?",
+				"lang": "en",
+				"question_page": "2",
+				"expected_answer": "All three instruments are part of the Commission's wide-ranging response to the COVID-19 pandemic."
+			},
+			{
+				"id": "1",
+				"question": "Che cos'è lo strumento per il sostegno di emergenza?",
+				"lang": "it",
+				"question_page": "1",
+				"expected_answer": "Lo strumento per il sostegno di emergenza (Emergency Support Instrument, ESI) consente al bilancio dell'UE di intervenire per fornire un sostegno di emergenza."
+			},
+			{
+				"id": "2",
+				"question": "Qual è la dotazione disponibile nell'ambito dell'ESI?",
+				"lang": "it",
+				"question_page": "1",
+				"expected_answer": "2,7 miliardi di €."
+			},
+			{
+				"id": "2",
+				"question": "In che modo gli Stati membri possono contribuire a definire le priorità nell'ambito dell'ESI?",
+				"lang": "it",
+				"question_page": "2",
+				"expected_answer": "La Commissione utilizza diversi canali per raccogliere dagli Stati membri informazioni sulle loro esigenze, risorse e iniziative in corso e valutare quindi la pertinenza di eventuali azioni e il relativo valore aggiunto dell'UE."
+			},
+			{
+				"id": "4",
+				"question": "Chi gestisce l'ESI e decide quali azioni saranno finanziate?",
+				"lang": "it",
+				"question_page": "1",
+				"expected_answer": "La Commissione."
+			},
+			{
+				"id": "5",
+				"question": "Chi può chiedere un finanziamento dell'ESI e come?",
+				"lang": "it",
+				"question_page": "2",
+				"expected_answer": "Dipende dal meccanismo di attuazione di ciascuna azione nell'ambito dell'ESI."
+			},
+			{
+				"id": "6",
+				"question": "Qual è la differenza tra l'ESI, rescEU e l'accordo sull'aggiudicazione congiunta?",
+				"lang": "it",
+				"question_page": "2",
+				"expected_answer": "Tutti questi strumenti fanno parte dell'ampio pacchetto di misure adottate dalla Commissione in risposta alla pandemia di Covid-19."
+			}
+		]
+	},
+	"qa_3_it.pdf": {
+		"name": "qa_3_it.pdf",
+		"page_num": "3",
+		"lang": "it",
+		"qa_list": [
+			{
+				"id": "1",
+				"question": "Che cos'è lo strumento per il sostegno di emergenza?",
+				"lang": "it",
+				"question_page": "1",
+				"expected_answer": "Lo strumento per il sostegno di emergenza (Emergency Support Instrument, ESI) consente al bilancio dell'UE di intervenire per fornire un sostegno di emergenza."
+			},
+			{
+				"id": "2",
+				"question": "Qual è la dotazione disponibile nell'ambito dell'ESI?",
+				"lang": "it",
+				"question_page": "1",
+				"expected_answer": "2,7 miliardi di €."
+			},
+			{
+				"id": "2",
+				"question": "In che modo gli Stati membri possono contribuire a definire le priorità nell'ambito dell'ESI?",
+				"lang": "it",
+				"question_page": "2",
+				"expected_answer": "La Commissione utilizza diversi canali per raccogliere dagli Stati membri informazioni sulle loro esigenze, risorse e iniziative in corso e valutare quindi la pertinenza di eventuali azioni e il relativo valore aggiunto dell'UE."
+			},
+			{
+				"id": "4",
+				"question": "Chi gestisce l'ESI e decide quali azioni saranno finanziate?",
+				"lang": "it",
+				"question_page": "1",
+				"expected_answer": "La Commissione."
+			},
+			{
+				"id": "5",
+				"question": "Chi può chiedere un finanziamento dell'ESI e come?",
+				"lang": "it",
+				"question_page": "2",
+				"expected_answer": "Dipende dal meccanismo di attuazione di ciascuna azione nell'ambito dell'ESI."
+			},
+			{
+				"id": "6",
+				"question": "Qual è la differenza tra l'ESI, rescEU e l'accordo sull'aggiudicazione congiunta?",
+				"lang": "it",
+				"question_page": "2",
+				"expected_answer": "Tutti questi strumenti fanno parte dell'ampio pacchetto di misure adottate dalla Commissione in risposta alla pandemia di Covid-19."
+			},
+			{
+				"id": "1",
+				"question": "What is the Emergency Support Instrument?",
+				"lang": "en",
+				"question_page": "1",
+				"expected_answer": "The Emergency Support Instrument (ESI) allows the EU budget to step in to provide emergency support."
+			},
+			{
+				"id": "2",
+				"question": "What is the budget available under the ESI?",
+				"lang": "en",
+				"question_page": "1",
+				"expected_answer": "€2.7 billion."
+			},
+			{
+				"id": "3",
+				"question": "How can Member States contribute to the setting of priorities under ESI?",
+				"lang": "en",
+				"question_page": "2",
+				"expected_answer": "The Commission uses several channels to gather information from Member States on their needs, resources and ongoing initiatives to inform its assessment of the relevance and EU added value of potential actions."
+			},
+			{
+				"id": "4",
+				"question": "Who manages ESI and decides on which actions will be funded?",
+				"lang": "en",
+				"question_page": "1",
+				"expected_answer": "The Commission."
+			},
+			{
+				"id": "5",
+				"question": "Who can apply for ESI funding and how?",
+				"lang": "en",
+				"question_page": "2",
+				"expected_answer": "This depends on the implementation mechanism for each action under ESI."
+			},
+			{
+				"id": "6",
+				"question": "What is the difference between ESI, rescEU and the Joint Procurement Agreement?",
+				"lang": "en",
+				"question_page": "2",
+				"expected_answer": "All three instruments are part of the Commission's wide-ranging response to the COVID-19 pandemic."
+			}
+		]
+	},
+	"rac_6_en.pdf": {
+		"name": "rac_6_en.pdf",
+		"page_num": "6",
+		"lang": "en",
+		"qa_list": [
+			{
+				"id": "1",
+				"question": "If a rapid antigen test is used in a population with high infection prevalence, how negative results should be confirmed?",
+				"lang": "en",
+				"question_page": "5",
+				"expected_answer": "By RT-PCR or by a repeated rapid antigen test"
+			},
+			{
+				"id": "2",
+				"question": "Why does effective testing plays a key role in the smooth functioning of the Internal Market?",
+				"lang": "en",
+				"question_page": "3",
+				"expected_answer": "As it allows for targeted isolation or quarantine measures"
+			},
+			{
+				"id": "3",
+				"question": "What did WHO published on 11 September 2020?",
+				"lang": "en",
+				"question_page": "2",
+				"expected_answer": "Interim guidance on the use of rapid antigen tests for COVID-19 detection"
+			},
+			{
+				"id": "4",
+				"question": "What is the ‘gold standard’ for COVID-19 diagnostics?",
+				"lang": "en",
+				"question_page": "1",
+				"expected_answer": "The RT-PCR test"
+			},
+			{
+				"id": "5",
+				"question": "What can be the advantages of rapid antigen tests over RT-PCR?",
+				"lang": "en",
+				"question_page": "2",
+				"expected_answer": "However, rapid antigen tests can offer a significant advantage over RT-PCR tests in terms of simplicity of equipment needed, lower demands of highly skilled operators, price and timeliness of results, by providing health services with easy to use and rapid results which will also help to relieve the pressure on healthcare systems."
+			},
+			{
+				"id": "6",
+				"question": "What is a key body in public health crisis coordination?",
+				"lang": "en",
+				"question_page": "3",
+				"expected_answer": "The Health Security Committee (HSC)"
+			},
+			{
+				"id": "1",
+				"question": "Se si utilizza un test antigenico rapido in una popolazione ad alta prevalenza di infezione, come dovrebbero essere confermati i risultati negativi?",
+				"lang": "it",
+				"question_page": "5",
+				"expected_answer": "Mediante un test RT-PCR o un secondo test antigenico rapido"
+			},
+			{
+				"id": "2",
+				"question": "Perché un’esecuzione efficace dei test svolge un ruolo fondamentale nel consentire il buon funzionamento del mercato interno?",
+				"lang": "it",
+				"question_page": "3",
+				"expected_answer": "Poiché permette di adottare misure di isolamento o quarantena mirate"
+			},
+			{
+				"id": "3",
+				"question": "Cosa ha pubblicato l'OMS l’11 settembre 2020?",
+				"lang": "it",
+				"question_page": "2",
+				"expected_answer": "Orientamenti provvisori sull’uso di test antigenici rapidi per l’individuazione dei casi di COVID-19"
+			},
+			{
+				"id": "4",
+				"question": "Qual è lo standard di riferimento per la diagnosi della COVID-19?",
+				"lang": "it",
+				"question_page": "1",
+				"expected_answer": "Il test RT-PCR"
+			},
+			{
+				"id": "5",
+				"question": "Quali vantaggi offrono i test antigenici rapidi rispetto ai test RT-PCR?",
+				"lang": "it",
+				"question_page": "2",
+				"expected_answer": "I test antigenici rapidi sono tuttavia in grado di offrire un vantaggio significativo rispetto ai test RT-PCR in termini di semplicità delle attrezzature necessarie, richiesta inferiore di operatori altamente qualificati, prezzi e tempestività dei risultati, fornendo ai servizi sanitari risultati rapidi e di facile utilizzo che contribuiranno altresì ad alleviare la pressione sui sistemi sanitari."
+			},
+			{
+				"id": "6",
+				"question": "Qual è un organismo fondamentale ai fini del coordinamento delle crisi di sanità pubblica?",
+				"lang": "it",
+				"question_page": "3",
+				"expected_answer": "Il comitato per la sicurezza sanitaria (CSS)"
+			}
+		]
+	},
+	"rac_6_it.pdf": {
+		"name": "rac_6_it.pdf",
+		"page_num": "6",
+		"lang": "it",
+		"qa_list": [
+			{
+				"id": "1",
+				"question": "Se si utilizza un test antigenico rapido in una popolazione ad alta prevalenza di infezione, come dovrebbero essere confermati i risultati negativi?",
+				"lang": "it",
+				"question_page": "5",
+				"expected_answer": "Mediante un test RT-PCR o un secondo test antigenico rapido"
+			},
+			{
+				"id": "2",
+				"question": "Perché un’esecuzione efficace dei test svolge un ruolo fondamentale nel consentire il buon funzionamento del mercato interno?",
+				"lang": "it",
+				"question_page": "3",
+				"expected_answer": "Poiché permette di adottare misure di isolamento o quarantena mirate"
+			},
+			{
+				"id": "3",
+				"question": "Cosa ha pubblicato l'OMS l’11 settembre 2020?",
+				"lang": "it",
+				"question_page": "2",
+				"expected_answer": "Orientamenti provvisori sull’uso di test antigenici rapidi per l’individuazione dei casi di COVID-19"
+			},
+			{
+				"id": "4",
+				"question": "Qual è lo standard di riferimento per la diagnosi della COVID-19?",
+				"lang": "it",
+				"question_page": "1",
+				"expected_answer": "Il test RT-PCR"
+			},
+			{
+				"id": "5",
+				"question": "Quali vantaggi offrono i test antigenici rapidi rispetto ai test RT-PCR?",
+				"lang": "it",
+				"question_page": "2",
+				"expected_answer": "I test antigenici rapidi sono tuttavia in grado di offrire un vantaggio significativo rispetto ai test RT-PCR in termini di semplicità delle attrezzature necessarie, richiesta inferiore di operatori altamente qualificati, prezzi e tempestività dei risultati, fornendo ai servizi sanitari risultati rapidi e di facile utilizzo che contribuiranno altresì ad alleviare la pressione sui sistemi sanitari."
+			},
+			{
+				"id": "6",
+				"question": "Qual è un organismo fondamentale ai fini del coordinamento delle crisi di sanità pubblica?",
+				"lang": "it",
+				"question_page": "3",
+				"expected_answer": "Il comitato per la sicurezza sanitaria (CSS)"
+			},
+			{
+				"id": "1",
+				"question": "If a rapid antigen test is used in a population with high infection prevalence, how negative results should be confirmed?",
+				"lang": "en",
+				"question_page": "5",
+				"expected_answer": "By RT-PCR or by a repeated rapid antigen test"
+			},
+			{
+				"id": "2",
+				"question": "Why does effective testing plays a key role in the smooth functioning of the Internal Market?",
+				"lang": "en",
+				"question_page": "3",
+				"expected_answer": "As it allows for targeted isolation or quarantine measures"
+			},
+			{
+				"id": "3",
+				"question": "What did WHO published on 11 September 2020?",
+				"lang": "en",
+				"question_page": "2",
+				"expected_answer": "Interim guidance on the use of rapid antigen tests for COVID-19 detection"
+			},
+			{
+				"id": "4",
+				"question": "What is the ‘gold standard’ for COVID-19 diagnostics?",
+				"lang": "en",
+				"question_page": "1",
+				"expected_answer": "The RT-PCR test"
+			},
+			{
+				"id": "5",
+				"question": "What can be the advantages of rapid antigen tests over RT-PCR?",
+				"lang": "en",
+				"question_page": "2",
+				"expected_answer": "However, rapid antigen tests can offer a significant advantage over RT-PCR tests in terms of simplicity of equipment needed, lower demands of highly skilled operators, price and timeliness of results, by providing health services with easy to use and rapid results which will also help to relieve the pressure on healthcare systems."
+			},
+			{
+				"id": "6",
+				"question": "What is a key body in public health crisis coordination?",
+				"lang": "en",
+				"question_page": "3",
+				"expected_answer": "The Health Security Committee (HSC)"
+			}
+		]
+	},
+	"com_16_it.pdf": {
+		"name": "com_16_it.pdf",
+		"page_num": "16",
+		"lang": "it",
+		"qa_list": [
+			{
+				"id": "1",
+				"question": "Qual è il principale strumento di sanità pubblica per controllare e gestire i focolai di COVID-19?",
+				"lang": "it",
+				"question_page": "3",
+				"expected_answer": "Le misure attualmente in vigore in tutta l'UE"
+			},
+			{
+				"id": "2",
+				"question": "Quali dati ha utilizzato la Commissione per ricavare informazioni sulla mobilità?",
+				"lang": "it",
+				"question_page": "4",
+				"expected_answer": "Dati anonimizzati e aggregati degli operatori di reti mobili"
+			},
+			{
+				"id": "3",
+				"question": "Perché test efficaci svolgono un ruolo fondamentale nel consentire il buon funzionamento del mercato unico?",
+				"lang": "it",
+				"question_page": "7",
+				"expected_answer": "Permettono di adottare misure di isolamento o quarantena mirate"
+			},
+			{
+				"id": "4",
+				"question": "Cosa evidenziano gli orientamenti specifici dell'ECDC sui test antigenici rapidi?",
+				"lang": "it",
+				"question_page": "7",
+				"expected_answer": "Le opportunità più importanti legate all'uso di tali test"
+			},
+			{
+				"id": "5",
+				"question": "Come sono i risultati che hanno iniziato a pubblicare i produttori di vaccini contro la COVID-19?",
+				"lang": "it",
+				"question_page": "2",
+				"expected_answer": "Promettenti in termini di efficacia"
+			},
+			{
+				"id": "6",
+				"question": "Cosa ha riscontrato l'indagine condotta nel marzo 2020 sugli operatori sanitari in Italia?",
+				"lang": "it",
+				"question_page": "11",
+				"expected_answer": "Un aumento dei sintomi di stress, ansia, depressione e insonnia"
+			},
+			{
+				"id": "1",
+				"question": "What is the main public health tool for controlling and managing COVID-19 outbreaks?",
+				"lang": "en",
+				"question_page": "3",
+				"expected_answer": "The current measures implemented across the EU"
+			},
+			{
+				"id": "2",
+				"question": "What data has the Commission used to derive mobility insights?",
+				"lang": "en",
+				"question_page": "4",
+				"expected_answer": "Anonymised and aggregated mobile network operators’ data"
+			},
+			{
+				"id": "3",
+				"question": "Why does effective testing plays a key role in the smooth functioning of the single market?",
+				"lang": "en",
+				"question_page": "6",
+				"expected_answer": "It allows for targeted isolation or quarantine measures"
+			},
+			{
+				"id": "4",
+				"question": "What do ECDC's specific guidelines on rapid antigen tests points to?",
+				"lang": "en",
+				"question_page": "7",
+				"expected_answer": "The most important opportunities with the use of these tests"
+			},
+			{
+				"id": "5",
+				"question": "What are the results that COVID-19 vaccine manufacturers have started publishing?",
+				"lang": "en",
+				"question_page": "2",
+				"expected_answer": "Promising in terms of vaccine efficacy"
+			},
+			{
+				"id": "6",
+				"question": "What did the survey conducted in March 2020 of healthcare workers in Italy find?",
+				"lang": "en",
+				"question_page": "10",
+				"expected_answer": "Increased symptoms of stress, anxiety, depression and insomnia"
+			}
+		]
+	},
+	"com_16_en.pdf": {
+		"name": "com_16_en.pdf",
+		"page_num": "16",
+		"lang": "en",
+		"qa_list": [
+			{
+				"id": "1",
+				"question": "What is the main public health tool for controlling and managing COVID-19 outbreaks?",
+				"lang": "en",
+				"question_page": "3",
+				"expected_answer": "The current measures implemented across the EU"
+			},
+			{
+				"id": "2",
+				"question": "What data has the Commission used to derive mobility insights?",
+				"lang": "en",
+				"question_page": "4",
+				"expected_answer": "Anonymised and aggregated mobile network operators’ data"
+			},
+			{
+				"id": "3",
+				"question": "Why does effective testing plays a key role in the smooth functioning of the single market?",
+				"lang": "en",
+				"question_page": "6",
+				"expected_answer": "It allows for targeted isolation or quarantine measures"
+			},
+			{
+				"id": "4",
+				"question": "What do ECDC's specific guidelines on rapid antigen tests points to?",
+				"lang": "en",
+				"question_page": "7",
+				"expected_answer": "The most important opportunities with the use of these tests"
+			},
+			{
+				"id": "5",
+				"question": "What are the results that COVID-19 vaccine manufacturers have started publishing?",
+				"lang": "en",
+				"question_page": "2",
+				"expected_answer": "Promising in terms of vaccine efficacy"
+			},
+			{
+				"id": "6",
+				"question": "What did the survey conducted in March 2020 of healthcare workers in Italy find?",
+				"lang": "en",
+				"question_page": "10",
+				"expected_answer": "Increased symptoms of stress, anxiety, depression and insomnia"
+			},
+			{
+				"id": "1",
+				"question": "Qual è il principale strumento di sanità pubblica per controllare e gestire i focolai di COVID-19?",
+				"lang": "it",
+				"question_page": "3",
+				"expected_answer": "Le misure attualmente in vigore in tutta l'UE"
+			},
+			{
+				"id": "2",
+				"question": "Quali dati ha utilizzato la Commissione per ricavare informazioni sulla mobilità?",
+				"lang": "it",
+				"question_page": "4",
+				"expected_answer": "Dati anonimizzati e aggregati degli operatori di reti mobili"
+			},
+			{
+				"id": "3",
+				"question": "Perché test efficaci svolgono un ruolo fondamentale nel consentire il buon funzionamento del mercato unico?",
+				"lang": "it",
+				"question_page": "7",
+				"expected_answer": "Permettono di adottare misure di isolamento o quarantena mirate"
+			},
+			{
+				"id": "4",
+				"question": "Cosa evidenziano gli orientamenti specifici dell'ECDC sui test antigenici rapidi?",
+				"lang": "it",
+				"question_page": "7",
+				"expected_answer": "Le opportunità più importanti legate all'uso di tali test"
+			},
+			{
+				"id": "5",
+				"question": "Come sono i risultati che hanno iniziato a pubblicare i produttori di vaccini contro la COVID-19?",
+				"lang": "it",
+				"question_page": "2",
+				"expected_answer": "Promettenti in termini di efficacia"
+			},
+			{
+				"id": "6",
+				"question": "Cosa ha riscontrato l'indagine condotta nel marzo 2020 sugli operatori sanitari in Italia?",
+				"lang": "it",
+				"question_page": "11",
+				"expected_answer": "Un aumento dei sintomi di stress, ansia, depressione e insonnia"
+			}
+		]
+	},
+	"rel_40_it.pdf": {
+		"name": "rel_40_it.pdf",
+		"page_num": "40",
+		"lang": "it",
+		"qa_list": [
+			{
+				"id": "1",
+				"question": "Dal 2020 le autorità nazionali come sono tenute a comunicare i risultati dei loro controlli?",
+				"lang": "it",
+				"question_page": "6",
+				"expected_answer": "In un formato elettronico armonizzato"
+			},
+			{
+				"id": "2",
+				"question": "Su cosa si basano i grafici relativi ai controlli ufficiali nazionali?",
+				"lang": "it",
+				"question_page": "8",
+				"expected_answer": "Sui dati aggregati del 2021 provenienti dai paesi dell'UE"
+			},
+			{
+				"id": "3",
+				"question": "Cosa stabilisce il regolamento sui controlli ufficiali quanto riguardo il benessere degli animali negli allevamenti e durante il trasporto?",
+				"lang": "it",
+				"question_page": "17",
+				"expected_answer": "Le relazioni annuali devono includere un'analisi dei casi più gravi di mancata conformità"
+			},
+			{
+				"id": "4",
+				"question": "Quali debolezze sono state individuate nel settore lattiero-caseario?",
+				"lang": "it",
+				"question_page": "32",
+				"expected_answer": "Nei sistemi di controllo della qualità per il latte non vaccino; nella formazione; nella sorveglianza dei controlli effettuati; e nella valutazione e nell'adempimento forzoso per i casi di non conformità"
+			},
+			{
+				"id": "5",
+				"question": "Cosa ha rilevato la Commissione attraverso il follow-up sistematico delle raccomandazioni risultanti dagli audit?",
+				"lang": "it",
+				"question_page": "39",
+				"expected_answer": "Le autorità nazionali adottano le opportune misure correttive per ovviare alle carenze individuate"
+			},
+			{
+				"id": "6",
+				"question": "Cosa devono fare le autorità nazionali quando i controlli ufficiali rilevano un caso di non conformità?",
+				"lang": "it",
+				"question_page": "21",
+				"expected_answer": "Prendere provvedimenti affinché l'impresa non conforme ponga rimedio alla non conformità e ne impedisca il ripetersi"
+			},
+			{
+				"id": "1",
+				"question": "Since 2020, how are national authorities required to report the results of their controls?",
+				"lang": "en",
+				"question_page": "5",
+				"expected_answer": "In a harmonised electronic format"
+			},
+			{
+				"id": "2",
+				"question": "What are the national official controls graphics based on?",
+				"lang": "en",
+				"question_page": "8",
+				"expected_answer": "On the 2021 aggregated data from EU countries"
+			},
+			{
+				"id": "3",
+				"question": "What does the Official Controls Regulation establish regarding the welfare of animals on farms and during transport?",
+				"lang": "en",
+				"question_page": "14",
+				"expected_answer": "The annual reports shall include an analysis of the most serious incidents of non-compliance"
+			},
+			{
+				"id": "4",
+				"question": "What weaknesses have been identified in the dairy sector?",
+				"lang": "en",
+				"question_page": "28",
+				"expected_answer": "In the quality control systems for non-bovine milk; training; oversight of controls performed; and the rating and enforcement of incidents of non-compliance."
+			},
+			{
+				"id": "5",
+				"question": "What did the Commission's systematic follow-up of audit recommendations shows?",
+				"lang": "en",
+				"question_page": "34",
+				"expected_answer": "National authorities are generally taking appropriate corrective measures to address identified shortcomings"
+			},
+			{
+				"id": "6",
+				"question": "What should national authorities do when official controls detect a case of non-compliance?",
+				"lang": "en",
+				"question_page": "17",
+				"expected_answer": "To take action to ensure that the non-compliant business rectifies the issue to prevent any further occurrence"
+			}
+		]
+	},
+	"rel_40_en.pdf": {
+		"name": "rel_40_en.pdf",
+		"page_num": "40",
+		"lang": "en",
+		"qa_list": [
+			{
+				"id": "1",
+				"question": "Since 2020, how are national authorities required to report the results of their controls?",
+				"lang": "en",
+				"question_page": "5",
+				"expected_answer": "In a harmonised electronic format"
+			},
+			{
+				"id": "2",
+				"question": "What are the national official controls graphics based on?",
+				"lang": "en",
+				"question_page": "8",
+				"expected_answer": "On the 2021 aggregated data from EU countries"
+			},
+			{
+				"id": "3",
+				"question": "What does the Official Controls Regulation establish regarding the welfare of animals on farms and during transport?",
+				"lang": "en",
+				"question_page": "14",
+				"expected_answer": "The annual reports shall include an analysis of the most serious incidents of non-compliance"
+			},
+			{
+				"id": "4",
+				"question": "What weaknesses have been identified in the dairy sector?",
+				"lang": "en",
+				"question_page": "28",
+				"expected_answer": "In the quality control systems for non-bovine milk; training; oversight of controls performed; and the rating and enforcement of incidents of non-compliance."
+			},
+			{
+				"id": "5",
+				"question": "What did the Commission's systematic follow-up of audit recommendations shows?",
+				"lang": "en",
+				"question_page": "34",
+				"expected_answer": "National authorities are generally taking appropriate corrective measures to address identified shortcomings"
+			},
+			{
+				"id": "6",
+				"question": "What should national authorities do when official controls detect a case of non-compliance?",
+				"lang": "en",
+				"question_page": "17",
+				"expected_answer": "To take action to ensure that the non-compliant business rectifies the issue to prevent any further occurrence"
+			},
+			{
+				"id": "1",
+				"question": "Dal 2020 le autorità nazionali come sono tenute a comunicare i risultati dei loro controlli?",
+				"lang": "it",
+				"question_page": "6",
+				"expected_answer": "In un formato elettronico armonizzato"
+			},
+			{
+				"id": "2",
+				"question": "Su cosa si basano i grafici relativi ai controlli ufficiali nazionali?",
+				"lang": "it",
+				"question_page": "8",
+				"expected_answer": "Sui dati aggregati del 2021 provenienti dai paesi dell'UE"
+			},
+			{
+				"id": "3",
+				"question": "Cosa stabilisce il regolamento sui controlli ufficiali quanto riguardo il benessere degli animali negli allevamenti e durante il trasporto?",
+				"lang": "it",
+				"question_page": "17",
+				"expected_answer": "Le relazioni annuali devono includere un'analisi dei casi più gravi di mancata conformità"
+			},
+			{
+				"id": "4",
+				"question": "Quali debolezze sono state individuate nel settore lattiero-caseario?",
+				"lang": "it",
+				"question_page": "32",
+				"expected_answer": "Nei sistemi di controllo della qualità per il latte non vaccino; nella formazione; nella sorveglianza dei controlli effettuati; e nella valutazione e nell'adempimento forzoso per i casi di non conformità"
+			},
+			{
+				"id": "5",
+				"question": "Cosa ha rilevato la Commissione attraverso il follow-up sistematico delle raccomandazioni risultanti dagli audit?",
+				"lang": "it",
+				"question_page": "39",
+				"expected_answer": "Le autorità nazionali adottano le opportune misure correttive per ovviare alle carenze individuate"
+			},
+			{
+				"id": "6",
+				"question": "Cosa devono fare le autorità nazionali quando i controlli ufficiali rilevano un caso di non conformità?",
+				"lang": "it",
+				"question_page": "21",
+				"expected_answer": "Prendere provvedimenti affinché l'impresa non conforme ponga rimedio alla non conformità e ne impedisca il ripetersi"
+			}
+		]
+	},
+	"leg_116_it.pdf": {
+		"name": "leg_116_it.pdf",
+		"page_num": "116",
+		"lang": "it",
+		"qa_list": [
+			{
+				"id": "1",
+				"question": "Perché la Commissione invita le autorità croate ad ultimare la traduzione e la revisione dell'acquis prima della data di adesione?",
+				"lang": "it",
+				"question_page": "6",
+				"expected_answer": "Al fine di garantire la certezza giuridica nell'attuazione della normativa UE"
+			},
+			{
+				"id": "2",
+				"question": "Cosa fanno l'Unione e gli Stati membri in attesa dell'entrata in vigore dei protocolli di cui al paragrafo 2, secondo comma?",
+				"lang": "it",
+				"question_page": "24",
+				"expected_answer": "Adottano le disposizioni necessarie, agendo congiuntamente, ove opportuno, nell'ambito delle rispettive competenze"
+			},
+			{
+				"id": "3",
+				"question": "A quanto ammontano gli stanziamenti d'impegno per lo strumento di transizione, ai prezzi correnti, per la Croazia?",
+				"lang": "it",
+				"question_page": "31",
+				"expected_answer": "In totale a 29 milioni di EUR nel 2013"
+			},
+			{
+				"id": "4",
+				"question": "Cosa comunica la Croazia alla Commissione entro il 15 luglio 2013?",
+				"lang": "it",
+				"question_page": "49",
+				"expected_answer": "La superficie dei terreni ammissibili conformemente al paragrafo 5"
+			},
+			{
+				"id": "5",
+				"question": "Quant'è l'aliquota del contributo dell'Unione alle integrazioni ai pagamenti diretti?",
+				"lang": "it",
+				"question_page": "89",
+				"expected_answer": "Non è superiore all'80 %"
+			},
+			{
+				"id": "6",
+				"question": "Cosa dichiara la Repubblica di Croazia, qualora sia concessa la succitata proroga del periodo transitorio?",
+				"lang": "it",
+				"question_page": "109",
+				"expected_answer": "Si adopererà per prendere le misure necessarie per liberalizzare l'acquisto di terreni agricoli nelle zone specificate prima dello scadere del termine fissato di tre anni"
+			},
+			{
+				"id": "1",
+				"question": "Why did the Commission calls on the Croatian authorities to complete the translation and revision of the acquis before the date of accession?",
+				"lang": "en",
+				"question_page": "6",
+				"expected_answer": "In order to ensure legal certainty in the implementation of EU legislation"
+			},
+			{
+				"id": "2",
+				"question": "What are the Union and the Member States doing pending the entry into force of the protocols referred to in the second subparagraph of paragraph 2?",
+				"lang": "en",
+				"question_page": "24",
+				"expected_answer": "Acting jointly as appropriate in the framework of their respective competences, shall take any appropriate measure"
+			},
+			{
+				"id": "3",
+				"question": "How much commitment appropriations for the transition facility, in current prices, for Croatia?",
+				"lang": "en",
+				"question_page": "31",
+				"expected_answer": "EUR 29 million in total in 2013"
+			},
+			{
+				"id": "4",
+				"question": "What will Croatia notify to the Commission by 15 July 2013?",
+				"lang": "en",
+				"question_page": "49",
+				"expected_answer": "The area of land eligible according to paragraph 5?"
+			},
+			{
+				"id": "5",
+				"question": "What is the rate of the Union contribution for the complements to direct payments?",
+				"lang": "en",
+				"question_page": "89",
+				"expected_answer": "Not exceed 80 %"
+			},
+			{
+				"id": "6",
+				"question": "What did the Republic of Croatia declares if the above-mentioned extension of the transitional period be granted?",
+				"lang": "en",
+				"question_page": "109",
+				"expected_answer": "It will endeavour to carry out the necessary steps to liberalise the acquisition of agricultural land in the specified areas before the expiry of the fixed three-year period"
+			}
+		]
+	},
+	"leg_116_en.pdf": {
+		"name": "leg_116_en.pdf",
+		"page_num": "116",
+		"lang": "en",
+		"qa_list": [
+			{
+				"id": "1",
+				"question": "Why did the Commission calls on the Croatian authorities to complete the translation and revision of the acquis before the date of accession?",
+				"lang": "en",
+				"question_page": "6",
+				"expected_answer": "In order to ensure legal certainty in the implementation of EU legislation"
+			},
+			{
+				"id": "2",
+				"question": "What are the Union and the Member States doing pending the entry into force of the protocols referred to in the second subparagraph of paragraph 2?",
+				"lang": "en",
+				"question_page": "24",
+				"expected_answer": "Acting jointly as appropriate in the framework of their respective competences, shall take any appropriate measure"
+			},
+			{
+				"id": "3",
+				"question": "How much commitment appropriations for the transition facility, in current prices, for Croatia?",
+				"lang": "en",
+				"question_page": "31",
+				"expected_answer": "EUR 29 million in total in 2013"
+			},
+			{
+				"id": "4",
+				"question": "What will Croatia notify to the Commission by 15 July 2013?",
+				"lang": "en",
+				"question_page": "49",
+				"expected_answer": "The area of land eligible according to paragraph 5?"
+			},
+			{
+				"id": "5",
+				"question": "What is the rate of the Union contribution for the complements to direct payments?",
+				"lang": "en",
+				"question_page": "89",
+				"expected_answer": "Not exceed 80 %"
+			},
+			{
+				"id": "6",
+				"question": "What did the Republic of Croatia declares if the above-mentioned extension of the transitional period be granted?",
+				"lang": "en",
+				"question_page": "109",
+				"expected_answer": "It will endeavour to carry out the necessary steps to liberalise the acquisition of agricultural land in the specified areas before the expiry of the fixed three-year period"
+			},
+			{
+				"id": "1",
+				"question": "Perché la Commissione invita le autorità croate ad ultimare la traduzione e la revisione dell'acquis prima della data di adesione?",
+				"lang": "it",
+				"question_page": "6",
+				"expected_answer": "Al fine di garantire la certezza giuridica nell'attuazione della normativa UE"
+			},
+			{
+				"id": "2",
+				"question": "Cosa fanno l'Unione e gli Stati membri in attesa dell'entrata in vigore dei protocolli di cui al paragrafo 2, secondo comma?",
+				"lang": "it",
+				"question_page": "24",
+				"expected_answer": "Adottano le disposizioni necessarie, agendo congiuntamente, ove opportuno, nell'ambito delle rispettive competenze"
+			},
+			{
+				"id": "3",
+				"question": "A quanto ammontano gli stanziamenti d'impegno per lo strumento di transizione, ai prezzi correnti, per la Croazia?",
+				"lang": "it",
+				"question_page": "31",
+				"expected_answer": "In totale a 29 milioni di EUR nel 2013"
+			},
+			{
+				"id": "4",
+				"question": "Cosa comunica la Croazia alla Commissione entro il 15 luglio 2013?",
+				"lang": "it",
+				"question_page": "49",
+				"expected_answer": "La superficie dei terreni ammissibili conformemente al paragrafo 5"
+			},
+			{
+				"id": "5",
+				"question": "Quant'è l'aliquota del contributo dell'Unione alle integrazioni ai pagamenti diretti?",
+				"lang": "it",
+				"question_page": "89",
+				"expected_answer": "Non è superiore all'80 %"
+			},
+			{
+				"id": "6",
+				"question": "Cosa dichiara la Repubblica di Croazia, qualora sia concessa la succitata proroga del periodo transitorio?",
+				"lang": "it",
+				"question_page": "109",
+				"expected_answer": "Si adopererà per prendere le misure necessarie per liberalizzare l'acquisto di terreni agricoli nelle zone specificate prima dello scadere del termine fissato di tre anni"
+			}
+		]
+	},
+	"eu_204_it.pdf": {
+		"name": "eu_204_it.pdf",
+		"page_num": "204",
+		"lang": "it",
+		"qa_list": [
+			{
+				"id": "1",
+				"question": "In che modo agisce l'Unione in virtù del principio di attribuzione?",
+				"lang": "it",
+				"question_page": "16",
+				"expected_answer": "Esclusivamente nei limiti delle competenze che le sono attribuite dagli Stati membri nei trattati per realizzare gli obiettivi da questi stabiliti"
+			},
+			{
+				"id": "2",
+				"question": "Quali funzioni esercit il Consiglio, congiuntamente al Parlamento europeo?",
+				"lang": "it",
+				"question_page": "22",
+				"expected_answer": "La funzione legislativa e la funzione di bilancio"
+			},
+			{
+				"id": "3",
+				"question": "Che carattere ha l'ordinanza pronunciata dal presidente o dal suo sostituto?",
+				"lang": "it",
+				"question_page": "63",
+				"expected_answer": "Carattere provvisorio e non pregiudica in nulla la decisione della Corte sul merito"
+			},
+			{
+				"id": "4",
+				"question": "Cosa devono prevedere in particolare gli statuti delle banche centrali nazionali?",
+				"lang": "it",
+				"question_page": "81",
+				"expected_answer": "Che la durata del mandato del governatore della banca centrale nazionale non sia inferiore a cinque anni"
+			},
+			{
+				"id": "5",
+				"question": "Perché la Banca d'Inghilterra versa la propria sottoscrizione al capitale della BCE?",
+				"lang": "it",
+				"question_page": "129",
+				"expected_answer": "Per coprire i costi operativi sulla stessa base delle banche centrali nazionali degli Stati membri con deroga"
+			},
+			{
+				"id": "6",
+				"question": "Cosa conferma la conferenza riguardo all'articolo 126?",
+				"lang": "it",
+				"question_page": "185",
+				"expected_answer": "Che l'aumento del potenziale di crescita e la garanzia di posizioni di bilancio sane costituiscono i due pilastri della politica economica e di bilancio dell'Unione e degli Stati membri"
+			},
+			{
+				"id": "1",
+				"question": "How shall the Union act under the principle of attribution?",
+				"lang": "en",
+				"question_page": "16",
+				"expected_answer": "Within the limits of the competences conferred upon it by the Member States in the Treaties to attain the objectives set out therein"
+			},
+			{
+				"id": "2",
+				"question": "What functions did the Council exercise, jointly with the European Parliament?",
+				"lang": "en",
+				"question_page": "22",
+				"expected_answer": "Legislative and budgetary functions"
+			},
+			{
+				"id": "3",
+				"question": "What is the nature of ruling of the president or the Judge replacing him?",
+				"lang": "en",
+				"question_page": "63",
+				"expected_answer": "Shall be provisional and shall in no way prejudice the decision of the Court on the substance of the case"
+			},
+			{
+				"id": "4",
+				"question": "What in particular should the statutes of the national central banks provide for?",
+				"lang": "en",
+				"question_page": "80",
+				"expected_answer": "The term of office of a Governor of a national central bank shall be no less than five years"
+			},
+			{
+				"id": "5",
+				"question": "Why does the Bank of England pay its subscription to the capital of the ECB?",
+				"lang": "en",
+				"question_page": "129",
+				"expected_answer": "As a contribution to its operational costs on the same basis as national central banks of Member States with a derogation"
+			},
+			{
+				"id": "6",
+				"question": "What does the Conference confirms with regard to Article 126?",
+				"lang": "en",
+				"question_page": "185",
+				"expected_answer": "That raising growth potential and securing sound budgetary positions are the two pillars of the economic and fiscal policy of the Union and the Member States"
+			}
+		]
+	},
+	"eu_204_en.pdf": {
+		"name": "eu_204_en.pdf",
+		"page_num": "204",
+		"lang": "en",
+		"qa_list": [
+			{
+				"id": "1",
+				"question": "How shall the Union act under the principle of attribution?",
+				"lang": "en",
+				"question_page": "16",
+				"expected_answer": "Within the limits of the competences conferred upon it by the Member States in the Treaties to attain the objectives set out therein"
+			},
+			{
+				"id": "2",
+				"question": "What functions did the Council exercise, jointly with the European Parliament?",
+				"lang": "en",
+				"question_page": "22",
+				"expected_answer": "Legislative and budgetary functions"
+			},
+			{
+				"id": "3",
+				"question": "What is the nature of ruling of the president or the Judge replacing him?",
+				"lang": "en",
+				"question_page": "63",
+				"expected_answer": "Shall be provisional and shall in no way prejudice the decision of the Court on the substance of the case"
+			},
+			{
+				"id": "4",
+				"question": "What in particular should the statutes of the national central banks provide for?",
+				"lang": "en",
+				"question_page": "80",
+				"expected_answer": "The term of office of a Governor of a national central bank shall be no less than five years"
+			},
+			{
+				"id": "5",
+				"question": "Why does the Bank of England pay its subscription to the capital of the ECB?",
+				"lang": "en",
+				"question_page": "129",
+				"expected_answer": "As a contribution to its operational costs on the same basis as national central banks of Member States with a derogation"
+			},
+			{
+				"id": "6",
+				"question": "What does the Conference confirms with regard to Article 126?",
+				"lang": "en",
+				"question_page": "185",
+				"expected_answer": "That raising growth potential and securing sound budgetary positions are the two pillars of the economic and fiscal policy of the Union and the Member States"
+			},
+			{
+				"id": "1",
+				"question": "In che modo agisce l'Unione in virtù del principio di attribuzione?",
+				"lang": "it",
+				"question_page": "16",
+				"expected_answer": "Esclusivamente nei limiti delle competenze che le sono attribuite dagli Stati membri nei trattati per realizzare gli obiettivi da questi stabiliti"
+			},
+			{
+				"id": "2",
+				"question": "Quali funzioni esercit il Consiglio, congiuntamente al Parlamento europeo?",
+				"lang": "it",
+				"question_page": "22",
+				"expected_answer": "La funzione legislativa e la funzione di bilancio"
+			},
+			{
+				"id": "3",
+				"question": "Che carattere ha l'ordinanza pronunciata dal presidente o dal suo sostituto?",
+				"lang": "it",
+				"question_page": "63",
+				"expected_answer": "Carattere provvisorio e non pregiudica in nulla la decisione della Corte sul merito"
+			},
+			{
+				"id": "4",
+				"question": "Cosa devono prevedere in particolare gli statuti delle banche centrali nazionali?",
+				"lang": "it",
+				"question_page": "81",
+				"expected_answer": "Che la durata del mandato del governatore della banca centrale nazionale non sia inferiore a cinque anni"
+			},
+			{
+				"id": "5",
+				"question": "Perché la Banca d'Inghilterra versa la propria sottoscrizione al capitale della BCE?",
+				"lang": "it",
+				"question_page": "129",
+				"expected_answer": "Per coprire i costi operativi sulla stessa base delle banche centrali nazionali degli Stati membri con deroga"
+			},
+			{
+				"id": "6",
+				"question": "Cosa conferma la conferenza riguardo all'articolo 126?",
+				"lang": "it",
+				"question_page": "185",
+				"expected_answer": "Che l'aumento del potenziale di crescita e la garanzia di posizioni di bilancio sane costituiscono i due pilastri della politica economica e di bilancio dell'Unione e degli Stati membri"
+			}
+		]
+	},
+	"qa_5_it.pdf": {
+		"name": "qa_5_it.pdf",
+		"page_num": "5",
+		"lang": "it",
+		"qa_list": [
+			{
+				"id": "1",
+				"question": "Cosa include il pacchetto anticorruzione?",
+				"lang": "it",
+				"question_page": "1",
+				"expected_answer": "Il pacchetto anticorruzione odierno comprende in primo luogo una comunicazione sulla lotta contro la corruzione nell'UE, che fornisce una panoramica della legislazione e delle politiche anticorruzione esistenti nell'UE, fa il punto sulle sfide e riflette su come intensificare la futura azione dell'UE."
+			},
+			{
+				"id": "2",
+				"question": "La direttiva introduce norme in materia di dichiarazione patrimoniale, lobbying e porte girevoli?",
+				"lang": "it",
+				"question_page": "2",
+				"expected_answer": "La direttiva include misure relative a tutti e tre questi aspetti"
+			},
+			{
+				"id": "3",
+				"question": "Cosa farà la rete anticorruzione dell'UE?",
+				"lang": "it",
+				"question_page": "3",
+				"expected_answer": "La rete svilupperà migliori prassi e orientamenti pratici in vari settori di interesse comune. Sosterrà inoltre una raccolta più sistematica di dati e prove che possano costituire una base solida per le azioni anticorruzione e per monitorarne il successo."
+			},
+			{
+				"id": "4",
+				"question": "Quali atti di corruzione saranno oggetto del quadro di sanzioni proposto?",
+				"lang": "it",
+				"question_page": "4",
+				"expected_answer": "Il quadro consentirà all'UE di adottare misure restrittive quando atti di corruzione compromettono o rischiano di compromettere gravemente gli obiettivi della politica estera e di sicurezza comune"
+			},
+			{
+				"id": "1",
+				"question": "What is included in the anti-corruption package?",
+				"lang": "en",
+				"question_page": "1",
+				"expected_answer": "Today's anti-corruption package consists of a Communication on the fight against corruption in the EU, which provides an overview of existing EU anti-corruption legislation and policies, takes stock of challenges and reflects on how to step-up future EU action."
+			},
+			{
+				"id": "2",
+				"question": "Does the Directive introduce rules on asset declaration, lobbying and revolving doors?",
+				"lang": "en",
+				"question_page": "2",
+				"expected_answer": "The Directive covers measures on all these three aspects"
+			},
+			{
+				"id": "3",
+				"question": "What will the EU network on corruption do?",
+				"lang": "en",
+				"question_page": "3",
+				"expected_answer": "It will be tasked to develop best practices and practical guidance in various areas of common interest. It will also support a more systematic gathering of data and evidence that can serve as a solid basis for anti-corruption actions and for monitoring the success of these actions."
+			},
+			{
+				"id": "4",
+				"question": "Which acts of corruption will this proposed sanctions framework target?",
+				"lang": "en",
+				"question_page": "4",
+				"expected_answer": "It will enable the EU to adopt restrictive measures when acts of corruption seriously affect or risk affecting the objectives of the Common Foreign and Security Policy"
+			}
+		]
+	},
+	"qa_5_en.pdf": {
+		"name": "qa_5_en.pdf",
+		"page_num": "5",
+		"lang": "en",
+		"qa_list": [
+			{
+				"id": "1",
+				"question": "What is included in the anti-corruption package?",
+				"lang": "en",
+				"question_page": "1",
+				"expected_answer": "Today's anti-corruption package consists of a Communication on the fight against corruption in the EU, which provides an overview of existing EU anti-corruption legislation and policies, takes stock of challenges and reflects on how to step-up future EU action."
+			},
+			{
+				"id": "2",
+				"question": "Does the Directive introduce rules on asset declaration, lobbying and revolving doors?",
+				"lang": "en",
+				"question_page": "2",
+				"expected_answer": "The Directive covers measures on all these three aspects"
+			},
+			{
+				"id": "3",
+				"question": "What will the EU network on corruption do?",
+				"lang": "en",
+				"question_page": "3",
+				"expected_answer": "It will be tasked to develop best practices and practical guidance in various areas of common interest. It will also support a more systematic gathering of data and evidence that can serve as a solid basis for anti-corruption actions and for monitoring the success of these actions."
+			},
+			{
+				"id": "4",
+				"question": "Which acts of corruption will this proposed sanctions framework target?",
+				"lang": "en",
+				"question_page": "4",
+				"expected_answer": "It will enable the EU to adopt restrictive measures when acts of corruption seriously affect or risk affecting the objectives of the Common Foreign and Security Policy"
+			},
+			{
+				"id": "1",
+				"question": "Cosa include il pacchetto anticorruzione?",
+				"lang": "it",
+				"question_page": "1",
+				"expected_answer": "Il pacchetto anticorruzione odierno comprende in primo luogo una comunicazione sulla lotta contro la corruzione nell'UE, che fornisce una panoramica della legislazione e delle politiche anticorruzione esistenti nell'UE, fa il punto sulle sfide e riflette su come intensificare la futura azione dell'UE."
+			},
+			{
+				"id": "2",
+				"question": "La direttiva introduce norme in materia di dichiarazione patrimoniale, lobbying e porte girevoli?",
+				"lang": "it",
+				"question_page": "2",
+				"expected_answer": "La direttiva include misure relative a tutti e tre questi aspetti"
+			},
+			{
+				"id": "3",
+				"question": "Cosa farà la rete anticorruzione dell'UE?",
+				"lang": "it",
+				"question_page": "3",
+				"expected_answer": "La rete svilupperà migliori prassi e orientamenti pratici in vari settori di interesse comune. Sosterrà inoltre una raccolta più sistematica di dati e prove che possano costituire una base solida per le azioni anticorruzione e per monitorarne il successo."
+			},
+			{
+				"id": "4",
+				"question": "Quali atti di corruzione saranno oggetto del quadro di sanzioni proposto?",
+				"lang": "it",
+				"question_page": "4",
+				"expected_answer": "Il quadro consentirà all'UE di adottare misure restrittive quando atti di corruzione compromettono o rischiano di compromettere gravemente gli obiettivi della politica estera e di sicurezza comune"
+			}
+		]
+	}
+}

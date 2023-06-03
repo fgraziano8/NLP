@@ -1,0 +1,3247 @@
+{
+	"qa_3_en.pdf": {
+		"name": "qa_3_en.pdf",
+		"page_num": "3",
+		"lang": "en",
+		"eval_start_date": "21/05/2023 14:20:15.733427",
+		"eval_end_date": "21/05/2023 14:21:18.018924",
+		"eval_qa_list": [
+			{
+				"eval_qa_start_date": "21/05/2023 14:20:16.034185",
+				"eval_qa_end_date": "21/05/2023 14:20:18.237926",
+				"id": "1",
+				"question": "What is the Emergency Support Instrument?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "1",
+				"expected_answer": "The Emergency Support Instrument (ESI) allows the EU budget to step in to provide emergency support.",
+				"answer": {
+					"score": 0.31198447942733767,
+					"start": 1781,
+					"end": 1795,
+					"answer": "the Commission",
+					"print_answer": "the Commission"
+				},
+				"similarity": -0.011297961696982384
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:20:19.394419",
+				"eval_qa_end_date": "21/05/2023 14:20:20.674500",
+				"id": "2",
+				"question": "What is the budget available under the ESI?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "1",
+				"expected_answer": "€2.7 billion.",
+				"answer": {
+					"score": 0.7779136896133423,
+					"start": 873,
+					"end": 885,
+					"answer": "€2.7 billion",
+					"print_answer": "€2.7 billion"
+				},
+				"similarity": 0.9577555656433106
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:20:21.728904",
+				"eval_qa_end_date": "21/05/2023 14:20:23.368013",
+				"id": "3",
+				"question": "How can Member States contribute to the setting of priorities under ESI?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "2",
+				"expected_answer": "The Commission uses several channels to gather information from Member States on their needs, resources and ongoing initiatives to inform its assessment of the relevance and EU added value of potential actions.",
+				"answer": {
+					"score": 0.08942781388759613,
+					"start": 887,
+					"end": 968,
+					"answer": "Member States and other public and private donors are also able\nto make donations",
+					"print_answer": "Member States and other public and private donors are also able\nto make donations"
+				},
+				"similarity": 0.0720091387629509
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:20:24.420918",
+				"eval_qa_end_date": "21/05/2023 14:20:26.163015",
+				"id": "4",
+				"question": "Who manages ESI and decides on which actions will be funded?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "1",
+				"expected_answer": "The Commission.",
+				"answer": {
+					"score": 0.5197116136550903,
+					"start": 1781,
+					"end": 1795,
+					"answer": "the Commission",
+					"print_answer": "the Commission"
+				},
+				"similarity": 0.8678308129310608
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:20:27.216420",
+				"eval_qa_end_date": "21/05/2023 14:20:28.536852",
+				"id": "5",
+				"question": "Who can apply for ESI funding and how?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "2",
+				"expected_answer": "This depends on the implementation mechanism for each action under ESI.",
+				"answer": {
+					"score": 0.3707583546638489,
+					"start": 887,
+					"end": 936,
+					"answer": "Member States and other public and private donors",
+					"print_answer": "Member States and other public and private donors"
+				},
+				"similarity": -0.09678564965724945
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:20:29.591257",
+				"eval_qa_end_date": "21/05/2023 14:20:30.961910",
+				"id": "6",
+				"question": "What is the difference between ESI, rescEU and the Joint Procurement Agreement?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "2",
+				"expected_answer": "All three instruments are part of the Commission's wide-ranging response to the COVID-19 pandemic.",
+				"answer": {
+					"score": 0.07912108302116394,
+					"start": 8085,
+					"end": 8145,
+					"answer": "This designation is without prejudice to positions on status",
+					"print_answer": "This designation is without prejudice to positions on status"
+				},
+				"similarity": -0.09940145164728165
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:20:32.029828",
+				"eval_qa_end_date": "21/05/2023 14:20:38.727481",
+				"id": "1",
+				"question": "Che cos'è lo strumento per il sostegno di emergenza?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "1",
+				"expected_answer": "Lo strumento per il sostegno di emergenza (Emergency Support Instrument, ESI) consente al bilancio dell'UE di intervenire per fornire un sostegno di emergenza.",
+				"answer": {
+					"score": 0.22425225377082826,
+					"start": 1781,
+					"end": 1795,
+					"answer": "the Commission",
+					"print_answer": "the Commission",
+					"translation": true,
+					"translatedAnswer": "Commissione",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": -0.024636656045913698
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:20:39.784890",
+				"eval_qa_end_date": "21/05/2023 14:20:46.275506",
+				"id": "2",
+				"question": "Qual è la dotazione disponibile nell'ambito dell'ESI?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "1",
+				"expected_answer": "2,7 miliardi di €.",
+				"answer": {
+					"score": 0.7477003931999207,
+					"start": 873,
+					"end": 885,
+					"answer": "€2.7 billion",
+					"print_answer": "€2.7 billion",
+					"translation": true,
+					"translatedAnswer": "2,7 miliardi di euro",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.9108400940895081
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:20:47.386960",
+				"eval_qa_end_date": "21/05/2023 14:20:53.951419",
+				"id": "2",
+				"question": "In che modo gli Stati membri possono contribuire a definire le priorità nell'ambito dell'ESI?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "2",
+				"expected_answer": "La Commissione utilizza diversi canali per raccogliere dagli Stati membri informazioni sulle loro esigenze, risorse e iniziative in corso e valutare quindi la pertinenza di eventuali azioni e il relativo valore aggiunto dell'UE.",
+				"answer": {
+					"score": 0.02322964183986187,
+					"start": 3492,
+					"end": 3533,
+					"answer": "The Commission maintains a close dialogue",
+					"print_answer": "The Commission maintains a close dialogue",
+					"translation": true,
+					"translatedAnswer": "La Commissione mantiene uno stretto dialogo",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.04675155505537987
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:20:55.049361",
+				"eval_qa_end_date": "21/05/2023 14:21:01.609045",
+				"id": "4",
+				"question": "Chi gestisce l'ESI e decide quali azioni saranno finanziate?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "1",
+				"expected_answer": "La Commissione.",
+				"answer": {
+					"score": 0.5703324675559998,
+					"start": 1781,
+					"end": 1795,
+					"answer": "the Commission",
+					"print_answer": "the Commission",
+					"translation": true,
+					"translatedAnswer": "Commissione",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.86311936378479
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:21:02.721000",
+				"eval_qa_end_date": "21/05/2023 14:21:09.296365",
+				"id": "5",
+				"question": "Chi può chiedere un finanziamento dell'ESI e come?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "2",
+				"expected_answer": "Dipende dal meccanismo di attuazione di ciascuna azione nell'ambito dell'ESI.",
+				"answer": {
+					"score": 0.4631904661655426,
+					"start": 887,
+					"end": 936,
+					"answer": "Member States and other public and private donors",
+					"print_answer": "Member States and other public and private donors",
+					"translation": true,
+					"translatedAnswer": "Stati membri e altri donatori pubblici e privati",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": -0.08926749229431153
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:21:10.353271",
+				"eval_qa_end_date": "21/05/2023 14:21:16.960514",
+				"id": "6",
+				"question": "Qual è la differenza tra l'ESI, rescEU e l'accordo sull'aggiudicazione congiunta?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "2",
+				"expected_answer": "Tutti questi strumenti fanno parte dell'ampio pacchetto di misure adottate dalla Commissione in risposta alla pandemia di Covid-19.",
+				"answer": {
+					"score": 0.06559840589761734,
+					"start": 8105,
+					"end": 8145,
+					"answer": "without prejudice to positions on status",
+					"print_answer": "without prejudice to positions on status",
+					"translation": true,
+					"translatedAnswer": "fatte salve le posizioni sullo status",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": -0.11021549254655838
+			}
+		]
+	},
+	"qa_3_it.pdf": {
+		"name": "qa_3_it.pdf",
+		"page_num": "3",
+		"lang": "it",
+		"eval_start_date": "21/05/2023 14:21:18.019924",
+		"eval_end_date": "21/05/2023 14:22:16.868615",
+		"eval_qa_list": [
+			{
+				"eval_qa_start_date": "21/05/2023 14:21:18.063462",
+				"eval_qa_end_date": "21/05/2023 14:21:19.363017",
+				"id": "1",
+				"question": "Che cos'è lo strumento per il sostegno di emergenza?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "1",
+				"expected_answer": "Lo strumento per il sostegno di emergenza (Emergency Support Instrument, ESI) consente al bilancio dell'UE di intervenire per fornire un sostegno di emergenza.",
+				"answer": {
+					"score": 0.3992774486541748,
+					"start": 303,
+					"end": 331,
+					"answer": "Emergency Support Instrument",
+					"print_answer": "Emergency Support Instrument"
+				},
+				"similarity": 0.5689423680305481
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:21:20.416421",
+				"eval_qa_end_date": "21/05/2023 14:21:21.634124",
+				"id": "2",
+				"question": "Qual è la dotazione disponibile nell'ambito dell'ESI?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "1",
+				"expected_answer": "2,7 miliardi di €.",
+				"answer": {
+					"score": 0.9314321279525757,
+					"start": 1046,
+					"end": 1063,
+					"answer": "2,7 miliardi di €",
+					"print_answer": "2,7 miliardi di €"
+				},
+				"similarity": 0.9445822834968567
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:21:22.675517",
+				"eval_qa_end_date": "21/05/2023 14:21:24.064579",
+				"id": "2",
+				"question": "In che modo gli Stati membri possono contribuire a definire le priorità nell'ambito dell'ESI?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "2",
+				"expected_answer": "La Commissione utilizza diversi canali per raccogliere dagli Stati membri informazioni sulle loro esigenze, risorse e iniziative in corso e valutare quindi la pertinenza di eventuali azioni e il relativo valore aggiunto dell'UE.",
+				"answer": {
+					"score": 0.6881987452507019,
+					"start": 1159,
+					"end": 1178,
+					"answer": "con delle donazioni",
+					"print_answer": "con delle donazioni"
+				},
+				"similarity": 0.05086737126111984
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:21:25.127991",
+				"eval_qa_end_date": "21/05/2023 14:21:26.308480",
+				"id": "4",
+				"question": "Chi gestisce l'ESI e decide quali azioni saranno finanziate?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "1",
+				"expected_answer": "La Commissione.",
+				"answer": {
+					"score": 0.0036373904440551998,
+					"start": 8371,
+					"end": 8393,
+					"answer": "La Commissione\neuropea",
+					"print_answer": "La Commissione\neuropea"
+				},
+				"similarity": 0.6958857774734497
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:21:27.371393",
+				"eval_qa_end_date": "21/05/2023 14:21:28.565078",
+				"id": "5",
+				"question": "Chi può chiedere un finanziamento dell'ESI e come?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "2",
+				"expected_answer": "Dipende dal meccanismo di attuazione di ciascuna azione nell'ambito dell'ESI.",
+				"answer": {
+					"score": 0.5847858190536499,
+					"start": 1096,
+					"end": 1123,
+					"answer": "donatori\npubblici e privati",
+					"print_answer": "donatori\npubblici e privati"
+				},
+				"similarity": -0.1035294234752655
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:21:29.595963",
+				"eval_qa_end_date": "21/05/2023 14:21:30.772968",
+				"id": "6",
+				"question": "Qual è la differenza tra l'ESI, rescEU e l'accordo sull'aggiudicazione congiunta?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "2",
+				"expected_answer": "Tutti questi strumenti fanno parte dell'ampio pacchetto di misure adottate dalla Commissione in risposta alla pandemia di Covid-19.",
+				"answer": {
+					"score": 0.03705567494034767,
+					"start": 8774,
+					"end": 8781,
+					"answer": "impegni",
+					"print_answer": "impegni"
+				},
+				"similarity": -0.0027668625116348268
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:21:31.810357",
+				"eval_qa_end_date": "21/05/2023 14:21:38.102410",
+				"id": "1",
+				"question": "What is the Emergency Support Instrument?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "1",
+				"expected_answer": "The Emergency Support Instrument (ESI) allows the EU budget to step in to provide emergency support.",
+				"answer": {
+					"score": 0.19632819294929505,
+					"start": 66,
+					"end": 104,
+					"answer": "strumento per il sostegno di emergenza",
+					"print_answer": "strumento per il sostegno di emergenza",
+					"translation": true,
+					"translatedAnswer": "Instrument for emergency support",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": 0.5141447186470032
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:21:39.203356",
+				"eval_qa_end_date": "21/05/2023 14:21:45.568412",
+				"id": "2",
+				"question": "What is the budget available under the ESI?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "1",
+				"expected_answer": "€2.7 billion.",
+				"answer": {
+					"score": 0.8809173703193665,
+					"start": 1046,
+					"end": 1063,
+					"answer": "2,7 miliardi di €",
+					"print_answer": "2,7 miliardi di €",
+					"translation": true,
+					"translatedAnswer": "€2.7 billion",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": 0.9577555656433106
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:21:46.669857",
+				"eval_qa_end_date": "21/05/2023 14:21:53.079982",
+				"id": "3",
+				"question": "How can Member States contribute to the setting of priorities under ESI?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "2",
+				"expected_answer": "The Commission uses several channels to gather information from Member States on their needs, resources and ongoing initiatives to inform its assessment of the relevance and EU added value of potential actions.",
+				"answer": {
+					"score": 0.746491551399231,
+					"start": 1159,
+					"end": 1178,
+					"answer": "con delle donazioni",
+					"print_answer": "con delle donazioni",
+					"translation": true,
+					"translatedAnswer": "with donations",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": 0.027755696326494218
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:21:54.207451",
+				"eval_qa_end_date": "21/05/2023 14:22:00.630506",
+				"id": "4",
+				"question": "Who manages ESI and decides on which actions will be funded?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "1",
+				"expected_answer": "The Commission.",
+				"answer": {
+					"score": 0.6211323738098145,
+					"start": 6668,
+					"end": 6684,
+					"answer": "gli Stati membri",
+					"print_answer": "gli Stati membri",
+					"translation": true,
+					"translatedAnswer": "Member States",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": 0.23944944143295289
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:22:01.729450",
+				"eval_qa_end_date": "21/05/2023 14:22:08.276056",
+				"id": "5",
+				"question": "Who can apply for ESI funding and how?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "2",
+				"expected_answer": "This depends on the implementation mechanism for each action under ESI.",
+				"answer": {
+					"score": 0.7473109364509583,
+					"start": 6553,
+					"end": 6629,
+					"answer": "Dipende dal meccanismo di attuazione di ciascuna azione nell'ambito dell'ESI",
+					"print_answer": "Dipende dal meccanismo di attuazione di ciascuna azione nell'ambito dell'ESI",
+					"translation": true,
+					"translatedAnswer": "It depends on the mechanism for implementing each action under ESI",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": 0.9368369579315186
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:22:09.330460",
+				"eval_qa_end_date": "21/05/2023 14:22:15.781181",
+				"id": "6",
+				"question": "What is the difference between ESI, rescEU and the Joint Procurement Agreement?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "2",
+				"expected_answer": "All three instruments are part of the Commission's wide-ranging response to the COVID-19 pandemic.",
+				"answer": {
+					"score": 0.005483036395162344,
+					"start": 8730,
+					"end": 8757,
+					"answer": "uno strumento complementare",
+					"print_answer": "uno strumento complementare",
+					"translation": true,
+					"translatedAnswer": "a complementary instrument",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": 0.1546349972486496
+			}
+		]
+	},
+	"rac_6_en.pdf": {
+		"name": "rac_6_en.pdf",
+		"page_num": "6",
+		"lang": "en",
+		"eval_start_date": "21/05/2023 14:22:16.869115",
+		"eval_end_date": "21/05/2023 14:23:27.359662",
+		"eval_qa_list": [
+			{
+				"eval_qa_start_date": "21/05/2023 14:22:16.920159",
+				"eval_qa_end_date": "21/05/2023 14:22:18.854874",
+				"id": "1",
+				"question": "If a rapid antigen test is used in a population with high infection prevalence, how negative results should be confirmed?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "5",
+				"expected_answer": "By RT-PCR or by a repeated rapid antigen test",
+				"answer": {
+					"score": 0.5321077108383179,
+					"start": 21732,
+					"end": 21784,
+					"answer": "either by RT-PCR or by a repeated rapid antigen test",
+					"print_answer": "either by RT-PCR or by a repeated rapid antigen test"
+				},
+				"similarity": 0.9863494634628296
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:22:19.915285",
+				"eval_qa_end_date": "21/05/2023 14:22:21.755845",
+				"id": "2",
+				"question": "Why does effective testing plays a key role in the smooth functioning of the Internal Market?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "3",
+				"expected_answer": "As it allows for targeted isolation or quarantine measures",
+				"answer": {
+					"score": 0.5132334232330322,
+					"start": 13847,
+					"end": 13903,
+					"answer": "it allows for targeted isolation or \nquarantine measures",
+					"print_answer": "it allows for targeted isolation or \nquarantine measures"
+				},
+				"similarity": 0.9561129212379456
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:22:22.801243",
+				"eval_qa_end_date": "21/05/2023 14:22:24.605713",
+				"id": "3",
+				"question": "What did WHO published on 11 September 2020?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "2",
+				"expected_answer": "Interim guidance on the use of rapid antigen tests for COVID-19 detection",
+				"answer": {
+					"score": 0.37705308198928835,
+					"start": 5674,
+					"end": 5690,
+					"answer": "interim guidance",
+					"print_answer": "interim guidance"
+				},
+				"similarity": 0.21512994170188905
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:22:25.657616",
+				"eval_qa_end_date": "21/05/2023 14:22:27.456203",
+				"id": "4",
+				"question": "What is the ‘gold standard’ for COVID-19 diagnostics?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "1",
+				"expected_answer": "The RT-PCR test",
+				"answer": {
+					"score": 0.9201829433441162,
+					"start": 7683,
+					"end": 7694,
+					"answer": "RT-PCR test",
+					"print_answer": "RT-PCR test"
+				},
+				"similarity": 0.9884377121925354
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:22:28.499598",
+				"eval_qa_end_date": "21/05/2023 14:22:30.330430",
+				"id": "5",
+				"question": "What can be the advantages of rapid antigen tests over RT-PCR?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "2",
+				"expected_answer": "However, rapid antigen tests can offer a significant advantage over RT-PCR tests in terms of simplicity of equipment needed, lower demands of highly skilled operators, price and timeliness of results, by providing health services with easy to use and rapid results which will also help to relieve the pressure on healthcare systems.",
+				"answer": {
+					"score": 0.2137870043516159,
+					"start": 13959,
+					"end": 13997,
+					"answer": "limiting restrictions of free movement",
+					"print_answer": "limiting restrictions of free movement"
+				},
+				"similarity": -0.037682510912418368
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:22:31.387837",
+				"eval_qa_end_date": "21/05/2023 14:22:33.188715",
+				"id": "6",
+				"question": "What is a key body in public health crisis coordination?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "3",
+				"expected_answer": "The Health Security Committee (HSC)",
+				"answer": {
+					"score": 0.2868208587169647,
+					"start": 10760,
+					"end": 10792,
+					"answer": "Health Security Committee (HSC).",
+					"print_answer": "Health Security Committee (HSC)."
+				},
+				"similarity": 0.9454246163368225
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:22:34.250125",
+				"eval_qa_end_date": "21/05/2023 14:22:41.540066",
+				"id": "1",
+				"question": "Se si utilizza un test antigenico rapido in una popolazione ad alta prevalenza di infezione, come dovrebbero essere confermati i risultati negativi?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "5",
+				"expected_answer": "Mediante un test RT-PCR o un secondo test antigenico rapido",
+				"answer": {
+					"score": 0.4250101149082184,
+					"start": 21732,
+					"end": 21784,
+					"answer": "either by RT-PCR or by a repeated rapid antigen test",
+					"print_answer": "either by RT-PCR or by a repeated rapid antigen test",
+					"translation": true,
+					"translatedAnswer": "con RT-PCR o con un test antigene rapido ripetuto",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.8937363624572754
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:22:42.589466",
+				"eval_qa_end_date": "21/05/2023 14:22:49.887625",
+				"id": "2",
+				"question": "Perché un’esecuzione efficace dei test svolge un ruolo fondamentale nel consentire il buon funzionamento del mercato interno?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "3",
+				"expected_answer": "Poiché permette di adottare misure di isolamento o quarantena mirate",
+				"answer": {
+					"score": 0.47359606623649599,
+					"start": 13847,
+					"end": 13903,
+					"answer": "it allows for targeted isolation or \nquarantine measures",
+					"print_answer": "it allows for targeted isolation or \nquarantine measures",
+					"translation": true,
+					"translatedAnswer": "consente misure mirate di isolamento o quarantena",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.9378620982170105
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:22:50.934525",
+				"eval_qa_end_date": "21/05/2023 14:22:57.851463",
+				"id": "3",
+				"question": "Cosa ha pubblicato l'OMS l’11 settembre 2020?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "2",
+				"expected_answer": "Orientamenti provvisori sull’uso di test antigenici rapidi per l’individuazione dei casi di COVID-19",
+				"answer": {
+					"score": 0.2986956238746643,
+					"start": 5674,
+					"end": 5690,
+					"answer": "interim guidance",
+					"print_answer": "interim guidance",
+					"translation": true,
+					"translatedAnswer": "Orientamenti provvisori",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.19591335952281953
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:22:58.921883",
+				"eval_qa_end_date": "21/05/2023 14:23:10.075234",
+				"id": "4",
+				"question": "Qual è lo standard di riferimento per la diagnosi della COVID-19?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "1",
+				"expected_answer": "Il test RT-PCR",
+				"answer": {
+					"score": 0.5733627676963806,
+					"start": 1584,
+					"end": 1586,
+					"answer": "RT",
+					"print_answer": "RT",
+					"translation": true,
+					"translatedAnswer": "NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT1 NT2 NT1 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2 NT2",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.1312079131603241
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:23:11.138146",
+				"eval_qa_end_date": "21/05/2023 14:23:18.235887",
+				"id": "5",
+				"question": "Quali vantaggi offrono i test antigenici rapidi rispetto ai test RT-PCR?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "2",
+				"expected_answer": "I test antigenici rapidi sono tuttavia in grado di offrire un vantaggio significativo rispetto ai test RT-PCR in termini di semplicità delle attrezzature necessarie, richiesta inferiore di operatori altamente qualificati, prezzi e tempestività dei risultati, fornendo ai servizi sanitari risultati rapidi e di facile utilizzo che contribuiranno altresì ad alleviare la pressione sui sistemi sanitari.",
+				"answer": {
+					"score": 0.1405176818370819,
+					"start": 7953,
+					"end": 8027,
+					"answer": "simplicity of equipment \nneeded, lower demands of highly skilled operators",
+					"print_answer": "simplicity of equipment \nneeded, lower demands of highly skilled operators",
+					"translation": true,
+					"translatedAnswer": "semplicità delle attrezzature necessarie, minori richieste di operatori altamente qualificati",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.29300835728645327
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:23:19.294294",
+				"eval_qa_end_date": "21/05/2023 14:23:26.293247",
+				"id": "6",
+				"question": "Qual è un organismo fondamentale ai fini del coordinamento delle crisi di sanità pubblica?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "3",
+				"expected_answer": "Il comitato per la sicurezza sanitaria (CSS)",
+				"answer": {
+					"score": 0.332493394613266,
+					"start": 10760,
+					"end": 10792,
+					"answer": "Health Security Committee (HSC).",
+					"print_answer": "Health Security Committee (HSC).",
+					"translation": true,
+					"translatedAnswer": "Comitato per la sicurezza sanitaria (HSC).",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.84340900182724
+			}
+		]
+	},
+	"rac_6_it.pdf": {
+		"name": "rac_6_it.pdf",
+		"page_num": "6",
+		"lang": "it",
+		"eval_start_date": "21/05/2023 14:23:27.360166",
+		"eval_end_date": "21/05/2023 14:24:30.546189",
+		"eval_qa_list": [
+			{
+				"eval_qa_start_date": "21/05/2023 14:23:27.411207",
+				"eval_qa_end_date": "21/05/2023 14:23:29.078568",
+				"id": "1",
+				"question": "Se si utilizza un test antigenico rapido in una popolazione ad alta prevalenza di infezione, come dovrebbero essere confermati i risultati negativi?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "5",
+				"expected_answer": "Mediante un test RT-PCR o un secondo test antigenico rapido",
+				"answer": {
+					"score": 0.6584125757217407,
+					"start": 27588,
+					"end": 27600,
+					"answer": "test \nRT-PCR",
+					"print_answer": "test \nRT-PCR"
+				},
+				"similarity": 0.6603736281394959
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:23:30.137978",
+				"eval_qa_end_date": "21/05/2023 14:23:31.718496",
+				"id": "2",
+				"question": "Perché un’esecuzione efficace dei test svolge un ruolo fondamentale nel consentire il buon funzionamento del mercato interno?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "3",
+				"expected_answer": "Poiché permette di adottare misure di isolamento o quarantena mirate",
+				"answer": {
+					"score": 0.6418545246124268,
+					"start": 15671,
+					"end": 15732,
+					"answer": "permette di adottare misure di isolamento o quarantena mirate",
+					"print_answer": "permette di adottare misure di isolamento o quarantena mirate"
+				},
+				"similarity": 0.9630278944969177
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:23:32.780908",
+				"eval_qa_end_date": "21/05/2023 14:23:34.340690",
+				"id": "3",
+				"question": "Cosa ha pubblicato l'OMS l’11 settembre 2020?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "2",
+				"expected_answer": "Orientamenti provvisori sull’uso di test antigenici rapidi per l’individuazione dei casi di COVID-19",
+				"answer": {
+					"score": 0.9520528316497803,
+					"start": 6288,
+					"end": 6346,
+					"answer": "orientamenti provvisori sull’uso di test antigenici rapidi",
+					"print_answer": "orientamenti provvisori sull’uso di test antigenici rapidi"
+				},
+				"similarity": 0.7832825183868408
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:23:35.398098",
+				"eval_qa_end_date": "21/05/2023 14:23:36.974915",
+				"id": "4",
+				"question": "Qual è lo standard di riferimento per la diagnosi della COVID-19?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "1",
+				"expected_answer": "Il test RT-PCR",
+				"answer": {
+					"score": 0.9831178188323975,
+					"start": 28337,
+					"end": 28348,
+					"answer": "test RT-PCR",
+					"print_answer": "test RT-PCR"
+				},
+				"similarity": 0.99041348695755
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:23:38.023817",
+				"eval_qa_end_date": "21/05/2023 14:23:39.587650",
+				"id": "5",
+				"question": "Quali vantaggi offrono i test antigenici rapidi rispetto ai test RT-PCR?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "2",
+				"expected_answer": "I test antigenici rapidi sono tuttavia in grado di offrire un vantaggio significativo rispetto ai test RT-PCR in termini di semplicità delle attrezzature necessarie, richiesta inferiore di operatori altamente qualificati, prezzi e tempestività dei risultati, fornendo ai servizi sanitari risultati rapidi e di facile utilizzo che contribuiranno altresì ad alleviare la pressione sui sistemi sanitari.",
+				"answer": {
+					"score": 0.8252204656600952,
+					"start": 12771,
+					"end": 12791,
+					"answer": "prestazioni cliniche",
+					"print_answer": "prestazioni cliniche"
+				},
+				"similarity": 0.1616513431072235
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:23:40.638552",
+				"eval_qa_end_date": "21/05/2023 14:23:42.220874",
+				"id": "6",
+				"question": "Qual è un organismo fondamentale ai fini del coordinamento delle crisi di sanità pubblica?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "3",
+				"expected_answer": "Il comitato per la sicurezza sanitaria (CSS)",
+				"answer": {
+					"score": 0.4992203414440155,
+					"start": 30673,
+					"end": 30677,
+					"answer": "ECDC",
+					"print_answer": "ECDC"
+				},
+				"similarity": 0.37409287691116335
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:23:43.276280",
+				"eval_qa_end_date": "21/05/2023 14:23:50.013898",
+				"id": "1",
+				"question": "If a rapid antigen test is used in a population with high infection prevalence, how negative results should be confirmed?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "5",
+				"expected_answer": "By RT-PCR or by a repeated rapid antigen test",
+				"answer": {
+					"score": 0.6716598868370056,
+					"start": 27588,
+					"end": 27600,
+					"answer": "test \nRT-PCR",
+					"print_answer": "test \nRT-PCR",
+					"translation": true,
+					"translatedAnswer": "RT-PCR test",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": 0.6129619479179382
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:23:51.086820",
+				"eval_qa_end_date": "21/05/2023 14:23:57.967731",
+				"id": "2",
+				"question": "Why does effective testing plays a key role in the smooth functioning of the Internal Market?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "3",
+				"expected_answer": "As it allows for targeted isolation or quarantine measures",
+				"answer": {
+					"score": 0.8366820216178894,
+					"start": 15671,
+					"end": 15732,
+					"answer": "permette di adottare misure di isolamento o quarantena mirate",
+					"print_answer": "permette di adottare misure di isolamento o quarantena mirate",
+					"translation": true,
+					"translatedAnswer": "allows targeted isolation or quarantine measures to be taken",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": 0.9374664425849915
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:23:59.011128",
+				"eval_qa_end_date": "21/05/2023 14:24:05.809773",
+				"id": "3",
+				"question": "What did WHO published on 11 September 2020?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "2",
+				"expected_answer": "Interim guidance on the use of rapid antigen tests for COVID-19 detection",
+				"answer": {
+					"score": 0.9613474607467651,
+					"start": 6288,
+					"end": 6346,
+					"answer": "orientamenti provvisori sull’uso di test antigenici rapidi",
+					"print_answer": "orientamenti provvisori sull’uso di test antigenici rapidi",
+					"translation": true,
+					"translatedAnswer": "Interim guidance on the use of rapid antigen tests",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": 0.801903486251831
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:24:06.853169",
+				"eval_qa_end_date": "21/05/2023 14:24:13.622760",
+				"id": "4",
+				"question": "What is the ‘gold standard’ for COVID-19 diagnostics?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "1",
+				"expected_answer": "The RT-PCR test",
+				"answer": {
+					"score": 0.971657931804657,
+					"start": 1758,
+					"end": 1768,
+					"answer": "test RT-PC",
+					"print_answer": "test RT-PC",
+					"translation": true,
+					"translatedAnswer": "RT-PC test",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": 0.9123660922050476
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:24:14.676164",
+				"eval_qa_end_date": "21/05/2023 14:24:21.566525",
+				"id": "5",
+				"question": "What can be the advantages of rapid antigen tests over RT-PCR?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "2",
+				"expected_answer": "However, rapid antigen tests can offer a significant advantage over RT-PCR tests in terms of simplicity of equipment needed, lower demands of highly skilled operators, price and timeliness of results, by providing health services with easy to use and rapid results which will also help to relieve the pressure on healthcare systems.",
+				"answer": {
+					"score": 0.7078680396080017,
+					"start": 19824,
+					"end": 19844,
+					"answer": "prestazioni adeguate",
+					"print_answer": "prestazioni adeguate",
+					"translation": true,
+					"translatedAnswer": "adequate performance",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": 0.026915308088064195
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:24:22.643450",
+				"eval_qa_end_date": "21/05/2023 14:24:29.483776",
+				"id": "6",
+				"question": "What is a key body in public health crisis coordination?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "3",
+				"expected_answer": "The Health Security Committee (HSC)",
+				"answer": {
+					"score": 0.4677722156047821,
+					"start": 12137,
+					"end": 12172,
+					"answer": "comitato per la sicurezza sanitaria",
+					"print_answer": "comitato per la sicurezza sanitaria",
+					"translation": true,
+					"translatedAnswer": "Health safety committee",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": 0.8215831518173218
+			}
+		]
+	},
+	"com_16_it.pdf": {
+		"name": "com_16_it.pdf",
+		"page_num": "16",
+		"lang": "it",
+		"eval_start_date": "21/05/2023 14:24:30.547189",
+		"eval_end_date": "21/05/2023 14:25:38.619696",
+		"eval_qa_list": [
+			{
+				"eval_qa_start_date": "21/05/2023 14:24:30.624757",
+				"eval_qa_end_date": "21/05/2023 14:24:32.707410",
+				"id": "1",
+				"question": "Qual è il principale strumento di sanità pubblica per controllare e gestire i focolai di COVID-19?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "3",
+				"expected_answer": "Le misure attualmente in vigore in tutta l'UE",
+				"answer": {
+					"score": 0.9576171636581421,
+					"start": 6506,
+					"end": 6548,
+					"answer": "misure attualmente in vigore in tutta l'UE",
+					"print_answer": "misure attualmente in vigore in tutta l'UE"
+				},
+				"similarity": 0.9946496486663818
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:24:33.761815",
+				"eval_qa_end_date": "21/05/2023 14:24:35.727956",
+				"id": "2",
+				"question": "Quali dati ha utilizzato la Commissione per ricavare informazioni sulla mobilità?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "4",
+				"expected_answer": "Dati anonimizzati e aggregati degli operatori di reti mobili",
+				"answer": {
+					"score": 0.9964300990104675,
+					"start": 9717,
+					"end": 9777,
+					"answer": "dati anonimizzati e aggregati degli operatori di reti mobili",
+					"print_answer": "dati anonimizzati e aggregati degli operatori di reti mobili"
+				},
+				"similarity": 0.962547242641449
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:24:36.787866",
+				"eval_qa_end_date": "21/05/2023 14:24:38.758602",
+				"id": "3",
+				"question": "Perché test efficaci svolgono un ruolo fondamentale nel consentire il buon funzionamento del mercato unico?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "7",
+				"expected_answer": "Permettono di adottare misure di isolamento o quarantena mirate",
+				"answer": {
+					"score": 0.9880000352859497,
+					"start": 18127,
+					"end": 18190,
+					"answer": "permettono di adottare misure di isolamento o quarantena mirate",
+					"print_answer": "permettono di adottare misure di isolamento o quarantena mirate"
+				},
+				"similarity": 0.953669548034668
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:24:39.808503",
+				"eval_qa_end_date": "21/05/2023 14:24:41.807183",
+				"id": "4",
+				"question": "Cosa evidenziano gli orientamenti specifici dell'ECDC sui test antigenici rapidi?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "7",
+				"expected_answer": "Le opportunità più importanti legate all'uso di tali test",
+				"answer": {
+					"score": 0.5765197277069092,
+					"start": 19945,
+					"end": 19972,
+					"answer": "opportunità più \nimportanti",
+					"print_answer": "opportunità più \nimportanti"
+				},
+				"similarity": 0.6520048379898071
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:24:42.863091",
+				"eval_qa_end_date": "21/05/2023 14:24:44.878322",
+				"id": "5",
+				"question": "Come sono i risultati che hanno iniziato a pubblicare i produttori di vaccini contro la COVID-19?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "2",
+				"expected_answer": "Promettenti in termini di efficacia",
+				"answer": {
+					"score": 0.9519582390785217,
+					"start": 2999,
+					"end": 3008,
+					"answer": "efficacia",
+					"print_answer": "efficacia"
+				},
+				"similarity": 0.7627453804016113
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:24:45.941236",
+				"eval_qa_end_date": "21/05/2023 14:24:47.917414",
+				"id": "6",
+				"question": "Cosa ha riscontrato l'indagine condotta nel marzo 2020 sugli operatori sanitari in Italia?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "11",
+				"expected_answer": "Un aumento dei sintomi di stress, ansia, depressione e insonnia",
+				"answer": {
+					"score": 0.9186988472938538,
+					"start": 41389,
+					"end": 41413,
+					"answer": "particolarmente \nesposti",
+					"print_answer": "particolarmente \nesposti"
+				},
+				"similarity": 0.05273190513253212
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:24:48.971319",
+				"eval_qa_end_date": "21/05/2023 14:24:56.128559",
+				"id": "1",
+				"question": "What is the main public health tool for controlling and managing COVID-19 outbreaks?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "3",
+				"expected_answer": "The current measures implemented across the EU",
+				"answer": {
+					"score": 0.9576171636581421,
+					"start": 6506,
+					"end": 6548,
+					"answer": "misure attualmente in vigore in tutta l'UE",
+					"print_answer": "misure attualmente in vigore in tutta l'UE",
+					"translation": true,
+					"translatedAnswer": "Measures currently in force across the EU",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": 0.9270603656768799
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:24:57.215993",
+				"eval_qa_end_date": "21/05/2023 14:25:04.417407",
+				"id": "2",
+				"question": "What data has the Commission used to derive mobility insights?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "4",
+				"expected_answer": "Anonymised and aggregated mobile network operators’ data",
+				"answer": {
+					"score": 0.9964300990104675,
+					"start": 9717,
+					"end": 9777,
+					"answer": "dati anonimizzati e aggregati degli operatori di reti mobili",
+					"print_answer": "dati anonimizzati e aggregati degli operatori di reti mobili",
+					"translation": true,
+					"translatedAnswer": "Anonymised and aggregated data of mobile network operators",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": 0.9786017537117004
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:25:05.479820",
+				"eval_qa_end_date": "21/05/2023 14:25:12.737299",
+				"id": "3",
+				"question": "Why does effective testing plays a key role in the smooth functioning of the single market?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "6",
+				"expected_answer": "It allows for targeted isolation or quarantine measures",
+				"answer": {
+					"score": 0.9798487424850464,
+					"start": 18127,
+					"end": 18190,
+					"answer": "permettono di adottare misure di isolamento o quarantena mirate",
+					"print_answer": "permettono di adottare misure di isolamento o quarantena mirate",
+					"translation": true,
+					"translatedAnswer": "allow targeted isolation or quarantine measures to be taken",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": 0.9453086853027344
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:25:13.799211",
+				"eval_qa_end_date": "21/05/2023 14:25:20.940590",
+				"id": "4",
+				"question": "What do ECDC's specific guidelines on rapid antigen tests points to?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "7",
+				"expected_answer": "The most important opportunities with the use of these tests",
+				"answer": {
+					"score": 0.030201265588402749,
+					"start": 54404,
+					"end": 54413,
+					"answer": "COVID-\n19",
+					"print_answer": "COVID-\n19",
+					"translation": true,
+					"translatedAnswer": "COVID- 19",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": -0.007865268737077713
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:25:22.012510",
+				"eval_qa_end_date": "21/05/2023 14:25:29.271373",
+				"id": "5",
+				"question": "What are the results that COVID-19 vaccine manufacturers have started publishing?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "2",
+				"expected_answer": "Promising in terms of vaccine efficacy",
+				"answer": {
+					"score": 0.19946002960205079,
+					"start": 54359,
+					"end": 54413,
+					"answer": "La strategia dell'UE per i vaccini contro la COVID-\n19",
+					"print_answer": "La strategia dell'UE per i vaccini contro la COVID-\n19",
+					"translation": true,
+					"translatedAnswer": "The EU Strategy for Vaccines against VOCID- 19",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": 0.4251250624656677
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:25:30.337789",
+				"eval_qa_end_date": "21/05/2023 14:25:37.560786",
+				"id": "6",
+				"question": "What did the survey conducted in March 2020 of healthcare workers in Italy find?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "10",
+				"expected_answer": "Increased symptoms of stress, anxiety, depression and insomnia",
+				"answer": {
+					"score": 0.829659104347229,
+					"start": 33315,
+					"end": 33376,
+					"answer": "aumento dei sintomi di stress, ansia, depressione e \ninsonnia",
+					"print_answer": "aumento dei sintomi di stress, ansia, depressione e \ninsonnia",
+					"translation": true,
+					"translatedAnswer": "increased symptoms of stress, anxiety, depression and insomnia",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": 0.9923450946807861
+			}
+		]
+	},
+	"com_16_en.pdf": {
+		"name": "com_16_en.pdf",
+		"page_num": "16",
+		"lang": "en",
+		"eval_start_date": "21/05/2023 14:25:38.620696",
+		"eval_end_date": "21/05/2023 14:26:49.858327",
+		"eval_qa_list": [
+			{
+				"eval_qa_start_date": "21/05/2023 14:25:38.686753",
+				"eval_qa_end_date": "21/05/2023 14:25:41.011636",
+				"id": "1",
+				"question": "What is the main public health tool for controlling and managing COVID-19 outbreaks?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "3",
+				"expected_answer": "The current measures implemented across the EU",
+				"answer": {
+					"score": 0.28436195850372317,
+					"start": 15362,
+					"end": 15377,
+					"answer": "contact tracing",
+					"print_answer": "contact tracing"
+				},
+				"similarity": 0.08980169147253037
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:25:42.066041",
+				"eval_qa_end_date": "21/05/2023 14:25:44.258765",
+				"id": "2",
+				"question": "What data has the Commission used to derive mobility insights?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "4",
+				"expected_answer": "Anonymised and aggregated mobile network operators’ data",
+				"answer": {
+					"score": 0.603397011756897,
+					"start": 8658,
+					"end": 8715,
+					"answer": "anonymised and aggregated mobile network \noperators’ data",
+					"print_answer": "anonymised and aggregated mobile network \noperators’ data"
+				},
+				"similarity": 0.9973210096359253
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:25:45.324179",
+				"eval_qa_end_date": "21/05/2023 14:25:47.557089",
+				"id": "3",
+				"question": "Why does effective testing plays a key role in the smooth functioning of the single market?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "6",
+				"expected_answer": "It allows for targeted isolation or quarantine measures",
+				"answer": {
+					"score": 0.5316163897514343,
+					"start": 15679,
+					"end": 15735,
+					"answer": "it \nallows for targeted isolation or quarantine measures",
+					"print_answer": "it \nallows for targeted isolation or quarantine measures"
+				},
+				"similarity": 0.9935282468795776
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:25:48.615998",
+				"eval_qa_end_date": "21/05/2023 14:25:50.831942",
+				"id": "4",
+				"question": "What do ECDC's specific guidelines on rapid antigen tests points to?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "7",
+				"expected_answer": "The most important opportunities with the use of these tests",
+				"answer": {
+					"score": 0.37897756695747378,
+					"start": 17573,
+					"end": 17605,
+					"answer": "the most important opportunities",
+					"print_answer": "the most important opportunities"
+				},
+				"similarity": 0.6515944600105286
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:25:51.880843",
+				"eval_qa_end_date": "21/05/2023 14:25:54.241931",
+				"id": "5",
+				"question": "What are the results that COVID-19 vaccine manufacturers have started publishing?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "2",
+				"expected_answer": "Promising in terms of vaccine efficacy",
+				"answer": {
+					"score": 0.39319974184036257,
+					"start": 2623,
+					"end": 2669,
+					"answer": "promising results in terms of vaccine efficacy",
+					"print_answer": "promising results in terms of vaccine efficacy"
+				},
+				"similarity": 0.9395713210105896
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:25:55.301840",
+				"eval_qa_end_date": "21/05/2023 14:25:57.544270",
+				"id": "6",
+				"question": "What did the survey conducted in March 2020 of healthcare workers in Italy find?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "10",
+				"expected_answer": "Increased symptoms of stress, anxiety, depression and insomnia",
+				"answer": {
+					"score": 0.44548842310905459,
+					"start": 28521,
+					"end": 28584,
+					"answer": "increased symptoms of stress, anxiety, depression \nand insomnia",
+					"print_answer": "increased symptoms of stress, anxiety, depression \nand insomnia"
+				},
+				"similarity": 0.9923450946807861
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:25:58.601178",
+				"eval_qa_end_date": "21/05/2023 14:26:06.037314",
+				"id": "1",
+				"question": "Qual è il principale strumento di sanità pubblica per controllare e gestire i focolai di COVID-19?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "3",
+				"expected_answer": "Le misure attualmente in vigore in tutta l'UE",
+				"answer": {
+					"score": 0.2465384155511856,
+					"start": 27286,
+					"end": 27307,
+					"answer": "general practitioners",
+					"print_answer": "general practitioners",
+					"translation": true,
+					"translatedAnswer": "medici generici",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.07920286059379578
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:26:07.126750",
+				"eval_qa_end_date": "21/05/2023 14:26:14.612692",
+				"id": "2",
+				"question": "Quali dati ha utilizzato la Commissione per ricavare informazioni sulla mobilità?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "4",
+				"expected_answer": "Dati anonimizzati e aggregati degli operatori di reti mobili",
+				"answer": {
+					"score": 0.5855872631072998,
+					"start": 8658,
+					"end": 8715,
+					"answer": "anonymised and aggregated mobile network \noperators’ data",
+					"print_answer": "anonymised and aggregated mobile network \noperators’ data",
+					"translation": true,
+					"translatedAnswer": "dati anonimi e aggregati relativi agli operatori di rete mobile",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.9247457385063171
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:26:15.670099",
+				"eval_qa_end_date": "21/05/2023 14:26:23.177256",
+				"id": "3",
+				"question": "Perché test efficaci svolgono un ruolo fondamentale nel consentire il buon funzionamento del mercato unico?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "7",
+				"expected_answer": "Permettono di adottare misure di isolamento o quarantena mirate",
+				"answer": {
+					"score": 0.5074613094329834,
+					"start": 15679,
+					"end": 15735,
+					"answer": "it \nallows for targeted isolation or quarantine measures",
+					"print_answer": "it \nallows for targeted isolation or quarantine measures",
+					"translation": true,
+					"translatedAnswer": "consente misure mirate di isolamento o quarantena",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.9657374620437622
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:26:24.247675",
+				"eval_qa_end_date": "21/05/2023 14:26:31.627696",
+				"id": "4",
+				"question": "Cosa evidenziano gli orientamenti specifici dell'ECDC sui test antigenici rapidi?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "7",
+				"expected_answer": "Le opportunità più importanti legate all'uso di tali test",
+				"answer": {
+					"score": 0.12971282005310059,
+					"start": 17573,
+					"end": 17605,
+					"answer": "the most important opportunities",
+					"print_answer": "the most important opportunities",
+					"translation": true,
+					"translatedAnswer": "le opportunità più importanti",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.6544991731643677
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:26:32.695613",
+				"eval_qa_end_date": "21/05/2023 14:26:40.185598",
+				"id": "5",
+				"question": "Come sono i risultati che hanno iniziato a pubblicare i produttori di vaccini contro la COVID-19?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "2",
+				"expected_answer": "Promettenti in termini di efficacia",
+				"answer": {
+					"score": 0.012254050001502037,
+					"start": 2623,
+					"end": 2669,
+					"answer": "promising results in terms of vaccine efficacy",
+					"print_answer": "promising results in terms of vaccine efficacy",
+					"translation": true,
+					"translatedAnswer": "risultati promettenti in termini di efficacia del vaccino",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.6478727459907532
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:26:41.257018",
+				"eval_qa_end_date": "21/05/2023 14:26:48.800919",
+				"id": "6",
+				"question": "Cosa ha riscontrato l'indagine condotta nel marzo 2020 sugli operatori sanitari in Italia?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "11",
+				"expected_answer": "Un aumento dei sintomi di stress, ansia, depressione e insonnia",
+				"answer": {
+					"score": 0.5187631845474243,
+					"start": 28521,
+					"end": 28584,
+					"answer": "increased symptoms of stress, anxiety, depression \nand insomnia",
+					"print_answer": "increased symptoms of stress, anxiety, depression \nand insomnia",
+					"translation": true,
+					"translatedAnswer": "aumento dei sintomi di stress, ansia, depressione e insonnia",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.9946534037590027
+			}
+		]
+	},
+	"rel_40_it.pdf": {
+		"name": "rel_40_it.pdf",
+		"page_num": "40",
+		"lang": "it",
+		"eval_start_date": "21/05/2023 14:26:49.859328",
+		"eval_end_date": "21/05/2023 14:27:59.381458",
+		"eval_qa_list": [
+			{
+				"eval_qa_start_date": "21/05/2023 14:26:49.946903",
+				"eval_qa_end_date": "21/05/2023 14:26:51.855121",
+				"id": "1",
+				"question": "Dal 2020 le autorità nazionali come sono tenute a comunicare i risultati dei loro controlli?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "6",
+				"expected_answer": "In un formato elettronico armonizzato",
+				"answer": {
+					"score": 0.7481158375740051,
+					"start": 7234,
+					"end": 7268,
+					"answer": "un formato elettronico armonizzato",
+					"print_answer": "un formato elettronico armonizzato"
+				},
+				"similarity": 0.9369457960128784
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:26:52.912528",
+				"eval_qa_end_date": "21/05/2023 14:26:54.752952",
+				"id": "2",
+				"question": "Su cosa si basano i grafici relativi ai controlli ufficiali nazionali?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "8",
+				"expected_answer": "Sui dati aggregati del 2021 provenienti dai paesi dell'UE",
+				"answer": {
+					"score": 0.6263585686683655,
+					"start": 11482,
+					"end": 11536,
+					"answer": "dati aggregati del 2021 \nprovenienti dai paesi dell'UE",
+					"print_answer": "dati aggregati del 2021 \nprovenienti dai paesi dell'UE"
+				},
+				"similarity": 0.9949454069137573
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:26:55.809860",
+				"eval_qa_end_date": "21/05/2023 14:26:57.671619",
+				"id": "3",
+				"question": "Cosa stabilisce il regolamento sui controlli ufficiali quanto riguardo il benessere degli animali negli allevamenti e durante il trasporto?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "17",
+				"expected_answer": "Le relazioni annuali devono includere un'analisi dei casi più gravi di mancata conformità",
+				"answer": {
+					"score": 0.9201520085334778,
+					"start": 7977,
+					"end": 7998,
+					"answer": "agricoltura biologica",
+					"print_answer": "agricoltura biologica"
+				},
+				"similarity": -0.023000536486506463
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:26:58.729527",
+				"eval_qa_end_date": "21/05/2023 14:27:00.549120",
+				"id": "4",
+				"question": "Quali debolezze sono state individuate nel settore lattiero-caseario?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "32",
+				"expected_answer": "Nei sistemi di controllo della qualità per il latte non vaccino; nella formazione; nella sorveglianza dei controlli effettuati; e nella valutazione e nell'adempimento forzoso per i casi di non conformità",
+				"answer": {
+					"score": 0.8825661540031433,
+					"start": 32367,
+					"end": 32376,
+					"answer": "pesticidi",
+					"print_answer": "pesticidi"
+				},
+				"similarity": -0.005623898468911648
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:27:01.602024",
+				"eval_qa_end_date": "21/05/2023 14:27:03.430739",
+				"id": "5",
+				"question": "Cosa ha rilevato la Commissione attraverso il follow-up sistematico delle raccomandazioni risultanti dagli audit?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "39",
+				"expected_answer": "Le autorità nazionali adottano le opportune misure correttive per ovviare alle carenze individuate",
+				"answer": {
+					"score": 0.8709140419960022,
+					"start": 6687,
+					"end": 6711,
+					"answer": "margini di miglioramento",
+					"print_answer": "margini di miglioramento"
+				},
+				"similarity": 0.21101877093315125
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:27:04.478638",
+				"eval_qa_end_date": "21/05/2023 14:27:06.317285",
+				"id": "6",
+				"question": "Cosa devono fare le autorità nazionali quando i controlli ufficiali rilevano un caso di non conformità?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "21",
+				"expected_answer": "Prendere provvedimenti affinché l'impresa non conforme ponga rimedio alla non conformità e ne impedisca il ripetersi",
+				"answer": {
+					"score": 0.9519801139831543,
+					"start": 23870,
+					"end": 23892,
+					"answer": "prendere provvedimenti",
+					"print_answer": "prendere provvedimenti"
+				},
+				"similarity": 0.34710848331451418
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:27:07.368187",
+				"eval_qa_end_date": "21/05/2023 14:27:14.407183",
+				"id": "1",
+				"question": "Since 2020, how are national authorities required to report the results of their controls?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "5",
+				"expected_answer": "In a harmonised electronic format",
+				"answer": {
+					"score": 0.6239227056503296,
+					"start": 7234,
+					"end": 7268,
+					"answer": "un formato elettronico armonizzato",
+					"print_answer": "un formato elettronico armonizzato",
+					"translation": true,
+					"translatedAnswer": "a harmonised electronic format",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": 0.9262719750404358
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:27:15.467594",
+				"eval_qa_end_date": "21/05/2023 14:27:22.581300",
+				"id": "2",
+				"question": "What are the national official controls graphics based on?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "8",
+				"expected_answer": "On the 2021 aggregated data from EU countries",
+				"answer": {
+					"score": 0.5110935568809509,
+					"start": 11482,
+					"end": 11536,
+					"answer": "dati aggregati del 2021 \nprovenienti dai paesi dell'UE",
+					"print_answer": "dati aggregati del 2021 \nprovenienti dai paesi dell'UE",
+					"translation": true,
+					"translatedAnswer": "aggregated 2021 data from EU countries",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": 0.9873753786087036
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:27:23.636706",
+				"eval_qa_end_date": "21/05/2023 14:27:31.037138",
+				"id": "3",
+				"question": "What does the Official Controls Regulation establish regarding the welfare of animals on farms and during transport?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "14",
+				"expected_answer": "The annual reports shall include an analysis of the most serious incidents of non-compliance",
+				"answer": {
+					"score": 0.7339962124824524,
+					"start": 19114,
+					"end": 19204,
+					"answer": "le relazioni annuali devono includere \nun'analisi dei casi più gravi di mancata conformità",
+					"print_answer": "le relazioni annuali devono includere \nun'analisi dei casi più gravi di mancata conformità",
+					"translation": true,
+					"translatedAnswer": "the annual reports shall include an analysis of the most serious cases of non-compliance",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": 0.9640805721282959
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:27:32.104555",
+				"eval_qa_end_date": "21/05/2023 14:27:40.329868",
+				"id": "4",
+				"question": "What weaknesses have been identified in the dairy sector?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "28",
+				"expected_answer": "In the quality control systems for non-bovine milk; training; oversight of controls performed; and the rating and enforcement of incidents of non-compliance.",
+				"answer": {
+					"score": 0.8825661540031433,
+					"start": 32367,
+					"end": 32376,
+					"answer": "pesticidi",
+					"print_answer": "pesticidi",
+					"translation": true,
+					"translatedAnswer": "pesticides",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": -0.02898314967751503
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:27:41.400788",
+				"eval_qa_end_date": "21/05/2023 14:27:50.105534",
+				"id": "5",
+				"question": "What did the Commission's systematic follow-up of audit recommendations shows?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "34",
+				"expected_answer": "National authorities are generally taking appropriate corrective measures to address identified shortcomings",
+				"answer": {
+					"score": 0.489716112613678,
+					"start": 41219,
+					"end": 41221,
+					"answer": "35",
+					"print_answer": "35",
+					"translation": true,
+					"translatedAnswer": "35",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": -0.019931305199861528
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:27:51.173450",
+				"eval_qa_end_date": "21/05/2023 14:27:58.293024",
+				"id": "6",
+				"question": "What should national authorities do when official controls detect a case of non-compliance?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "17",
+				"expected_answer": "To take action to ensure that the non-compliant business rectifies the issue to prevent any further occurrence",
+				"answer": {
+					"score": 0.8656054735183716,
+					"start": 23870,
+					"end": 23892,
+					"answer": "prendere provvedimenti",
+					"print_answer": "prendere provvedimenti",
+					"translation": true,
+					"translatedAnswer": "take action",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": 0.30592799186706545
+			}
+		]
+	},
+	"rel_40_en.pdf": {
+		"name": "rel_40_en.pdf",
+		"page_num": "40",
+		"lang": "en",
+		"eval_start_date": "21/05/2023 14:27:59.382459",
+		"eval_end_date": "21/05/2023 14:29:09.113528",
+		"eval_qa_list": [
+			{
+				"eval_qa_start_date": "21/05/2023 14:27:59.475539",
+				"eval_qa_end_date": "21/05/2023 14:28:01.739269",
+				"id": "1",
+				"question": "Since 2020, how are national authorities required to report the results of their controls?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "5",
+				"expected_answer": "In a harmonised electronic format",
+				"answer": {
+					"score": 0.5928364992141724,
+					"start": 6471,
+					"end": 6504,
+					"answer": "in a harmonised electronic format",
+					"print_answer": "in a harmonised electronic format"
+				},
+				"similarity": 0.9748420119285584
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:28:02.789170",
+				"eval_qa_end_date": "21/05/2023 14:28:04.875394",
+				"id": "2",
+				"question": "What are the national official controls graphics based on?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "8",
+				"expected_answer": "On the 2021 aggregated data from EU countries",
+				"answer": {
+					"score": 0.45663905143737795,
+					"start": 10117,
+					"end": 10156,
+					"answer": "2021 aggregated \ndata from EU countries",
+					"print_answer": "2021 aggregated \ndata from EU countries"
+				},
+				"similarity": 0.9866432547569275
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:28:05.931800",
+				"eval_qa_end_date": "21/05/2023 14:28:08.039606",
+				"id": "3",
+				"question": "What does the Official Controls Regulation establish regarding the welfare of animals on farms and during transport?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "14",
+				"expected_answer": "The annual reports shall include an analysis of the most serious incidents of non-compliance",
+				"answer": {
+					"score": 0.34825342893600466,
+					"start": 9118,
+					"end": 9123,
+					"answer": "rules",
+					"print_answer": "rules"
+				},
+				"similarity": -0.025003798305988313
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:28:09.087007",
+				"eval_qa_end_date": "21/05/2023 14:28:11.141268",
+				"id": "4",
+				"question": "What weaknesses have been identified in the dairy sector?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "28",
+				"expected_answer": "In the quality control systems for non-bovine milk; training; oversight of controls performed; and the rating and enforcement of incidents of non-compliance.",
+				"answer": {
+					"score": 0.616739809513092,
+					"start": 39228,
+					"end": 39268,
+					"answer": "Staffing levels and resource constraints",
+					"print_answer": "Staffing levels and resource constraints"
+				},
+				"similarity": 0.13646097481250764
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:28:12.191670",
+				"eval_qa_end_date": "21/05/2023 14:28:14.282465",
+				"id": "5",
+				"question": "What did the Commission's systematic follow-up of audit recommendations shows?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "34",
+				"expected_answer": "National authorities are generally taking appropriate corrective measures to address identified shortcomings",
+				"answer": {
+					"score": 0.24862883985042573,
+					"start": 38597,
+					"end": 38706,
+					"answer": "national authorities are generally taking appropriate corrective measures to address \nidentified shortcomings",
+					"print_answer": "national authorities are generally taking appropriate corrective measures to address \nidentified shortcomings"
+				},
+				"similarity": 0.9984394907951355
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:28:15.345378",
+				"eval_qa_end_date": "21/05/2023 14:28:17.466187",
+				"id": "6",
+				"question": "What should national authorities do when official controls detect a case of non-compliance?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "17",
+				"expected_answer": "To take action to ensure that the non-compliant business rectifies the issue to prevent any further occurrence",
+				"answer": {
+					"score": 0.26643577218055727,
+					"start": 4813,
+					"end": 4837,
+					"answer": "enforce the requirements",
+					"print_answer": "enforce the requirements"
+				},
+				"similarity": 0.08045707643032074
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:28:18.514586",
+				"eval_qa_end_date": "21/05/2023 14:28:25.925660",
+				"id": "1",
+				"question": "Dal 2020 le autorità nazionali come sono tenute a comunicare i risultati dei loro controlli?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "6",
+				"expected_answer": "In un formato elettronico armonizzato",
+				"answer": {
+					"score": 0.6083072423934937,
+					"start": 6471,
+					"end": 6504,
+					"answer": "in a harmonised electronic format",
+					"print_answer": "in a harmonised electronic format",
+					"translation": true,
+					"translatedAnswer": "in un formato elettronico armonizzato",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.98543781042099
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:28:27.012093",
+				"eval_qa_end_date": "21/05/2023 14:28:34.348130",
+				"id": "2",
+				"question": "Su cosa si basano i grafici relativi ai controlli ufficiali nazionali?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "8",
+				"expected_answer": "Sui dati aggregati del 2021 provenienti dai paesi dell'UE",
+				"answer": {
+					"score": 0.4534236192703247,
+					"start": 10117,
+					"end": 10156,
+					"answer": "2021 aggregated \ndata from EU countries",
+					"print_answer": "2021 aggregated \ndata from EU countries",
+					"translation": true,
+					"translatedAnswer": "Dati aggregati 2021 provenienti dai paesi dell'UE",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.9653351306915283
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:28:35.405537",
+				"eval_qa_end_date": "21/05/2023 14:28:42.722817",
+				"id": "3",
+				"question": "Cosa stabilisce il regolamento sui controlli ufficiali quanto riguardo il benessere degli animali negli allevamenti e durante il trasporto?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "17",
+				"expected_answer": "Le relazioni annuali devono includere un'analisi dei casi più gravi di mancata conformità",
+				"answer": {
+					"score": 0.5233490467071533,
+					"start": 20204,
+					"end": 20232,
+					"answer": "Official Controls Regulation",
+					"print_answer": "Official Controls Regulation",
+					"translation": true,
+					"translatedAnswer": "Regolamento sui controlli ufficiali",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.0023948047310113909
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:28:43.767714",
+				"eval_qa_end_date": "21/05/2023 14:28:51.093682",
+				"id": "4",
+				"question": "Quali debolezze sono state individuate nel settore lattiero-caseario?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "32",
+				"expected_answer": "Nei sistemi di controllo della qualità per il latte non vaccino; nella formazione; nella sorveglianza dei controlli effettuati; e nella valutazione e nell'adempimento forzoso per i casi di non conformità",
+				"answer": {
+					"score": 0.616739809513092,
+					"start": 39228,
+					"end": 39268,
+					"answer": "Staffing levels and resource constraints",
+					"print_answer": "Staffing levels and resource constraints",
+					"translation": true,
+					"translatedAnswer": "Livelli di personale e vincoli di risorse",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.009870659559965134
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:28:52.149088",
+				"eval_qa_end_date": "21/05/2023 14:28:59.586215",
+				"id": "5",
+				"question": "Cosa ha rilevato la Commissione attraverso il follow-up sistematico delle raccomandazioni risultanti dagli audit?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "39",
+				"expected_answer": "Le autorità nazionali adottano le opportune misure correttive per ovviare alle carenze individuate",
+				"answer": {
+					"score": 0.2468845695257187,
+					"start": 8347,
+					"end": 8410,
+					"answer": "the \nnational authorities are meeting their control obligations",
+					"print_answer": "the \nnational authorities are meeting their control obligations",
+					"translation": true,
+					"translatedAnswer": "le autorità nazionali rispettino i loro obblighi in materia di controllo;",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.5056334733963013
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:29:00.634616",
+				"eval_qa_end_date": "21/05/2023 14:29:08.045111",
+				"id": "6",
+				"question": "Cosa devono fare le autorità nazionali quando i controlli ufficiali rilevano un caso di non conformità?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "21",
+				"expected_answer": "Prendere provvedimenti affinché l'impresa non conforme ponga rimedio alla non conformità e ne impedisca il ripetersi",
+				"answer": {
+					"score": 0.26643577218055727,
+					"start": 4813,
+					"end": 4837,
+					"answer": "enforce the requirements",
+					"print_answer": "enforce the requirements",
+					"translation": true,
+					"translatedAnswer": "far rispettare i requisiti",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.14235606789588929
+			}
+		]
+	},
+	"leg_116_it.pdf": {
+		"name": "leg_116_it.pdf",
+		"page_num": "116",
+		"lang": "it",
+		"eval_start_date": "21/05/2023 14:29:09.114028",
+		"eval_end_date": "21/05/2023 14:31:33.037634",
+		"eval_qa_list": [
+			{
+				"eval_qa_start_date": "21/05/2023 14:29:09.352233",
+				"eval_qa_end_date": "21/05/2023 14:29:17.934047",
+				"id": "1",
+				"question": "Perché la Commissione invita le autorità croate ad ultimare la traduzione e la revisione dell'acquis prima della data di adesione?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "6",
+				"expected_answer": "Al fine di garantire la certezza giuridica nell'attuazione della normativa UE",
+				"answer": {
+					"score": 0.9124228954315186,
+					"start": 12226,
+					"end": 12292,
+					"answer": "garantire la certezza giuridica nell'attuazione della normativa UE",
+					"print_answer": "garantire la certezza giuridica nell'attuazione della normativa UE"
+				},
+				"similarity": 0.9899680614471436
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:29:18.975941",
+				"eval_qa_end_date": "21/05/2023 14:29:27.419745",
+				"id": "2",
+				"question": "Cosa fanno l'Unione e gli Stati membri in attesa dell'entrata in vigore dei protocolli di cui al paragrafo 2, secondo comma?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "24",
+				"expected_answer": "Adottano le disposizioni necessarie, agendo congiuntamente, ove opportuno, nell'ambito delle rispettive competenze",
+				"answer": {
+					"score": 0.9378706216812134,
+					"start": 219549,
+					"end": 219567,
+					"answer": "misure transitorie",
+					"print_answer": "misure transitorie"
+				},
+				"similarity": 0.05917976796627045
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:29:28.474651",
+				"eval_qa_end_date": "21/05/2023 14:29:36.765483",
+				"id": "3",
+				"question": "A quanto ammontano gli stanziamenti d'impegno per lo strumento di transizione, ai prezzi correnti, per la Croazia?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "31",
+				"expected_answer": "In totale a 29 milioni di EUR nel 2013",
+				"answer": {
+					"score": 0.9830572605133057,
+					"start": 82858,
+					"end": 82877,
+					"answer": "8,7 \nmilioni di EUR",
+					"print_answer": "8,7 \nmilioni di EUR"
+				},
+				"similarity": 0.4793667495250702
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:29:37.810380",
+				"eval_qa_end_date": "21/05/2023 14:29:45.835988",
+				"id": "4",
+				"question": "Cosa comunica la Croazia alla Commissione entro il 15 luglio 2013?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "49",
+				"expected_answer": "La superficie dei terreni ammissibili conformemente al paragrafo 5",
+				"answer": {
+					"score": 0.943712592124939,
+					"start": 275146,
+					"end": 275166,
+					"answer": "1 710 000 tonnellate",
+					"print_answer": "1 710 000 tonnellate"
+				},
+				"similarity": 0.002532143145799637
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:29:46.901903",
+				"eval_qa_end_date": "21/05/2023 14:29:55.201541",
+				"id": "5",
+				"question": "Quant'è l'aliquota del contributo dell'Unione alle integrazioni ai pagamenti diretti?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "89",
+				"expected_answer": "Non è superiore all'80 %",
+				"answer": {
+					"score": 0.8548665642738342,
+					"start": 305993,
+					"end": 305997,
+					"answer": "80 %",
+					"print_answer": "80 %"
+				},
+				"similarity": 0.7061475515365601
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:29:56.263452",
+				"eval_qa_end_date": "21/05/2023 14:30:04.503439",
+				"id": "6",
+				"question": "Cosa dichiara la Repubblica di Croazia, qualora sia concessa la succitata proroga del periodo transitorio?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "109",
+				"expected_answer": "Si adopererà per prendere le misure necessarie per liberalizzare l'acquisto di terreni agricoli nelle zone specificate prima dello scadere del termine fissato di tre anni",
+				"answer": {
+					"score": 0.8340798616409302,
+					"start": 42848,
+					"end": 42870,
+					"answer": "condizioni di adesione",
+					"print_answer": "condizioni di adesione"
+				},
+				"similarity": -0.0023173289373517038
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:30:05.559847",
+				"eval_qa_end_date": "21/05/2023 14:30:19.270970",
+				"id": "1",
+				"question": "Why did the Commission calls on the Croatian authorities to complete the translation and revision of the acquis before the date of accession?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "6",
+				"expected_answer": "In order to ensure legal certainty in the implementation of EU legislation",
+				"answer": {
+					"score": 0.9333990216255188,
+					"start": 12226,
+					"end": 12292,
+					"answer": "garantire la certezza giuridica nell'attuazione della normativa UE",
+					"print_answer": "garantire la certezza giuridica nell'attuazione della normativa UE",
+					"translation": true,
+					"translatedAnswer": "ensuring legal certainty in the implementation of EU legislation",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": 0.9662443995475769
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:30:20.351398",
+				"eval_qa_end_date": "21/05/2023 14:30:34.085546",
+				"id": "2",
+				"question": "What are the Union and the Member States doing pending the entry into force of the protocols referred to in the second subparagraph of paragraph 2?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "24",
+				"expected_answer": "Acting jointly as appropriate in the framework of their respective competences, shall take any appropriate measure",
+				"answer": {
+					"score": 0.9378706216812134,
+					"start": 219549,
+					"end": 219567,
+					"answer": "misure transitorie",
+					"print_answer": "misure transitorie",
+					"translation": true,
+					"translatedAnswer": "transitional measures",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": 0.1652335226535797
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:30:35.157467",
+				"eval_qa_end_date": "21/05/2023 14:30:48.607041",
+				"id": "3",
+				"question": "How much commitment appropriations for the transition facility, in current prices, for Croatia?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "31",
+				"expected_answer": "EUR 29 million in total in 2013",
+				"answer": {
+					"score": 0.9245505928993225,
+					"start": 58502,
+					"end": 58513,
+					"answer": "854 400 000",
+					"print_answer": "854 400 000",
+					"translation": true,
+					"translatedAnswer": "854 400 000",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": 0.2880714535713196
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:30:49.677461",
+				"eval_qa_end_date": "21/05/2023 14:31:02.975773",
+				"id": "4",
+				"question": "What will Croatia notify to the Commission by 15 July 2013?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "49",
+				"expected_answer": "The area of land eligible according to paragraph 5?",
+				"answer": {
+					"score": 0.978255569934845,
+					"start": 275146,
+					"end": 275166,
+					"answer": "1 710 000 tonnellate",
+					"print_answer": "1 710 000 tonnellate",
+					"translation": true,
+					"translatedAnswer": "1 710 000 tonnes",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": -0.03433041274547577
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:31:04.047193",
+				"eval_qa_end_date": "21/05/2023 14:31:17.432894",
+				"id": "5",
+				"question": "What is the rate of the Union contribution for the complements to direct payments?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "89",
+				"expected_answer": "Not exceed 80 %",
+				"answer": {
+					"score": 0.9216147065162659,
+					"start": 305993,
+					"end": 305997,
+					"answer": "80 %",
+					"print_answer": "80 %",
+					"translation": true,
+					"translatedAnswer": "80 %",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": 0.7943324446678162
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:31:18.504815",
+				"eval_qa_end_date": "21/05/2023 14:31:31.980727",
+				"id": "6",
+				"question": "What did the Republic of Croatia declares if the above-mentioned extension of the transitional period be granted?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "109",
+				"expected_answer": "It will endeavour to carry out the necessary steps to liberalise the acquisition of agricultural land in the specified areas before the expiry of the fixed three-year period",
+				"answer": {
+					"score": 0.7365296483039856,
+					"start": 261502,
+					"end": 261558,
+					"answer": "raggiungere i requisiti di cui al \nprimo e secondo comma",
+					"print_answer": "raggiungere i requisiti di cui al \nprimo e secondo comma",
+					"translation": true,
+					"translatedAnswer": "meet the requirements of the first and second subparagraphs",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": 0.1073065996170044
+			}
+		]
+	},
+	"leg_116_en.pdf": {
+		"name": "leg_116_en.pdf",
+		"page_num": "116",
+		"lang": "en",
+		"eval_start_date": "21/05/2023 14:31:33.038135",
+		"eval_end_date": "21/05/2023 14:34:12.503459",
+		"eval_qa_list": [
+			{
+				"eval_qa_start_date": "21/05/2023 14:31:33.251818",
+				"eval_qa_end_date": "21/05/2023 14:31:43.101330",
+				"id": "1",
+				"question": "Why did the Commission calls on the Croatian authorities to complete the translation and revision of the acquis before the date of accession?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "6",
+				"expected_answer": "In order to ensure legal certainty in the implementation of EU legislation",
+				"answer": {
+					"score": 0.4091959297657013,
+					"start": 12057,
+					"end": 12123,
+					"answer": "to ensure legal certainty in the implementation of EU \nlegislation",
+					"print_answer": "to ensure legal certainty in the implementation of EU \nlegislation"
+				},
+				"similarity": 0.9824545979499817
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:31:44.168747",
+				"eval_qa_end_date": "21/05/2023 14:31:54.036747",
+				"id": "2",
+				"question": "What are the Union and the Member States doing pending the entry into force of the protocols referred to in the second subparagraph of paragraph 2?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "24",
+				"expected_answer": "Acting jointly as appropriate in the framework of their respective competences, shall take any appropriate measure",
+				"answer": {
+					"score": 0.10348714143037796,
+					"start": 51330,
+					"end": 51365,
+					"answer": "shall take any appropriate \nmeasure",
+					"print_answer": "shall take any appropriate \nmeasure"
+				},
+				"similarity": 0.6317065954208374
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:31:55.093655",
+				"eval_qa_end_date": "21/05/2023 14:32:04.500203",
+				"id": "3",
+				"question": "How much commitment appropriations for the transition facility, in current prices, for Croatia?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "31",
+				"expected_answer": "EUR 29 million in total in 2013",
+				"answer": {
+					"score": 0.7464044690132141,
+					"start": 78134,
+					"end": 78148,
+					"answer": "EUR 29 million",
+					"print_answer": "EUR 29 million"
+				},
+				"similarity": 0.7666279077529907
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:32:05.559112",
+				"eval_qa_end_date": "21/05/2023 14:32:14.833045",
+				"id": "4",
+				"question": "What will Croatia notify to the Commission by 15 July 2013?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "49",
+				"expected_answer": "The area of land eligible according to paragraph 5?",
+				"answer": {
+					"score": 0.46794047951698305,
+					"start": 144604,
+					"end": 144629,
+					"answer": "the area of land eligible",
+					"print_answer": "the area of land eligible"
+				},
+				"similarity": 0.7040114998817444
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:32:15.883947",
+				"eval_qa_end_date": "21/05/2023 14:32:25.326075",
+				"id": "5",
+				"question": "What is the rate of the Union contribution for the complements to direct payments?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "89",
+				"expected_answer": "Not exceed 80 %",
+				"answer": {
+					"score": 0.7175542712211609,
+					"start": 292822,
+					"end": 292827,
+					"answer": "80 %.",
+					"print_answer": "80 %."
+				},
+				"similarity": 0.7440374493598938
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:32:26.385484",
+				"eval_qa_end_date": "21/05/2023 14:32:35.929298",
+				"id": "6",
+				"question": "What did the Republic of Croatia declares if the above-mentioned extension of the transitional period be granted?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "109",
+				"expected_answer": "It will endeavour to carry out the necessary steps to liberalise the acquisition of agricultural land in the specified areas before the expiry of the fixed three-year period",
+				"answer": {
+					"score": 0.4265061318874359,
+					"start": 288938,
+					"end": 288948,
+					"answer": "six months",
+					"print_answer": "six months"
+				},
+				"similarity": 0.0734148621559143
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:32:36.989207",
+				"eval_qa_end_date": "21/05/2023 14:32:52.160804",
+				"id": "1",
+				"question": "Perché la Commissione invita le autorità croate ad ultimare la traduzione e la revisione dell'acquis prima della data di adesione?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "6",
+				"expected_answer": "Al fine di garantire la certezza giuridica nell'attuazione della normativa UE",
+				"answer": {
+					"score": 0.4589695632457733,
+					"start": 12057,
+					"end": 12123,
+					"answer": "to ensure legal certainty in the implementation of EU \nlegislation",
+					"print_answer": "to ensure legal certainty in the implementation of EU \nlegislation",
+					"translation": true,
+					"translatedAnswer": "garantire la certezza del diritto nell'attuazione della legislazione dell'UE;",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.8941801190376282
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:32:53.239230",
+				"eval_qa_end_date": "21/05/2023 14:33:08.366410",
+				"id": "2",
+				"question": "Cosa fanno l'Unione e gli Stati membri in attesa dell'entrata in vigore dei protocolli di cui al paragrafo 2, secondo comma?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "24",
+				"expected_answer": "Adottano le disposizioni necessarie, agendo congiuntamente, ove opportuno, nell'ambito delle rispettive competenze",
+				"answer": {
+					"score": 0.10348714143037796,
+					"start": 51330,
+					"end": 51365,
+					"answer": "shall take any appropriate \nmeasure",
+					"print_answer": "shall take any appropriate \nmeasure",
+					"translation": true,
+					"translatedAnswer": "adotta ogni misura appropriata",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.2111804187297821
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:33:09.438331",
+				"eval_qa_end_date": "21/05/2023 14:33:23.965924",
+				"id": "3",
+				"question": "A quanto ammontano gli stanziamenti d'impegno per lo strumento di transizione, ai prezzi correnti, per la Croazia?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "31",
+				"expected_answer": "In totale a 29 milioni di EUR nel 2013",
+				"answer": {
+					"score": 0.5594221949577332,
+					"start": 82887,
+					"end": 82903,
+					"answer": "EUR 27,7 million",
+					"print_answer": "EUR 27,7 million",
+					"translation": true,
+					"translatedAnswer": "27,7 milioni di EUR",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.6614463329315186
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:33:25.044850",
+				"eval_qa_end_date": "21/05/2023 14:33:39.503016",
+				"id": "4",
+				"question": "Cosa comunica la Croazia alla Commissione entro il 15 luglio 2013?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "49",
+				"expected_answer": "La superficie dei terreni ammissibili conformemente al paragrafo 5",
+				"answer": {
+					"score": 0.351028174161911,
+					"start": 144604,
+					"end": 144629,
+					"answer": "the area of land eligible",
+					"print_answer": "the area of land eligible",
+					"translation": true,
+					"translatedAnswer": "la superficie di terreno ammissibile;",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.5957628488540649
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:33:40.580441",
+				"eval_qa_end_date": "21/05/2023 14:33:55.302225",
+				"id": "5",
+				"question": "Quant'è l'aliquota del contributo dell'Unione alle integrazioni ai pagamenti diretti?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "89",
+				"expected_answer": "Non è superiore all'80 %",
+				"answer": {
+					"score": 0.16754071414470673,
+					"start": 292822,
+					"end": 292827,
+					"answer": "80 %.",
+					"print_answer": "80 %.",
+					"translation": true,
+					"translatedAnswer": "80 percento.",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.7586205005645752
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:33:56.376148",
+				"eval_qa_end_date": "21/05/2023 14:34:11.461565",
+				"id": "6",
+				"question": "Cosa dichiara la Repubblica di Croazia, qualora sia concessa la succitata proroga del periodo transitorio?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "109",
+				"expected_answer": "Si adopererà per prendere le misure necessarie per liberalizzare l'acquisto di terreni agricoli nelle zone specificate prima dello scadere del termine fissato di tre anni",
+				"answer": {
+					"score": 0.28360268473625185,
+					"start": 17136,
+					"end": 17195,
+					"answer": "accession of the Republic \nof Croatia to the European Union",
+					"print_answer": "accession of the Republic \nof Croatia to the European Union",
+					"translation": true,
+					"translatedAnswer": "adesione della Repubblica di Croazia all'Unione europea",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.01245957799255848
+			}
+		]
+	},
+	"eu_204_it.pdf": {
+		"name": "eu_204_it.pdf",
+		"page_num": "204",
+		"lang": "it",
+		"eval_start_date": "21/05/2023 14:34:12.504460",
+		"eval_end_date": "21/05/2023 14:36:38.204266",
+		"eval_qa_list": [
+			{
+				"eval_qa_start_date": "21/05/2023 14:34:12.750672",
+				"eval_qa_end_date": "21/05/2023 14:34:21.336076",
+				"id": "1",
+				"question": "In che modo agisce l'Unione in virtù del principio di attribuzione?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "16",
+				"expected_answer": "Esclusivamente nei limiti delle competenze che le sono attribuite dagli Stati membri nei trattati per realizzare gli obiettivi da questi stabiliti",
+				"answer": {
+					"score": 0.6112615466117859,
+					"start": 174651,
+					"end": 174702,
+					"answer": "economia di mercato aperta e in \nlibera concorrenza",
+					"print_answer": "economia di mercato aperta e in \nlibera concorrenza"
+				},
+				"similarity": 0.030149085447192193
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:34:22.394984",
+				"eval_qa_end_date": "21/05/2023 14:34:30.750937",
+				"id": "2",
+				"question": "Quali funzioni esercit il Consiglio, congiuntamente al Parlamento europeo?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "22",
+				"expected_answer": "La funzione legislativa e la funzione di bilancio",
+				"answer": {
+					"score": 0.9819667339324951,
+					"start": 159922,
+					"end": 159940,
+					"answer": "giudici ad interim",
+					"print_answer": "giudici ad interim"
+				},
+				"similarity": 0.11411843448877335
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:34:31.815851",
+				"eval_qa_end_date": "21/05/2023 14:34:40.246127",
+				"id": "3",
+				"question": "Che carattere ha l'ordinanza pronunciata dal presidente o dal suo sostituto?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "63",
+				"expected_answer": "Carattere provvisorio e non pregiudica in nulla la decisione della Corte sul merito",
+				"answer": {
+					"score": 0.9623584151268005,
+					"start": 123308,
+					"end": 123326,
+					"answer": "vacanza \ndi seggio",
+					"print_answer": "vacanza \ndi seggio"
+				},
+				"similarity": 0.024837598204612733
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:34:41.310040",
+				"eval_qa_end_date": "21/05/2023 14:34:49.706932",
+				"id": "4",
+				"question": "Cosa devono prevedere in particolare gli statuti delle banche centrali nazionali?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "81",
+				"expected_answer": "Che la durata del mandato del governatore della banca centrale nazionale non sia inferiore a cinque anni",
+				"answer": {
+					"score": 0.9394649863243103,
+					"start": 249403,
+					"end": 249414,
+					"answer": "articolo 21",
+					"print_answer": "articolo 21"
+				},
+				"similarity": -0.02814391255378723
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:34:50.768343",
+				"eval_qa_end_date": "21/05/2023 14:34:59.220078",
+				"id": "5",
+				"question": "Perché la Banca d'Inghilterra versa la propria sottoscrizione al capitale della BCE?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "129",
+				"expected_answer": "Per coprire i costi operativi sulla stessa base delle banche centrali nazionali degli Stati membri con deroga",
+				"answer": {
+					"score": 0.9027827382087708,
+					"start": 276805,
+					"end": 276825,
+					"answer": "trattato di \nLisbona",
+					"print_answer": "trattato di \nLisbona"
+				},
+				"similarity": 0.03376026451587677
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:35:00.295001",
+				"eval_qa_end_date": "21/05/2023 14:35:08.646100",
+				"id": "6",
+				"question": "Cosa conferma la conferenza riguardo all'articolo 126?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "185",
+				"expected_answer": "Che l'aumento del potenziale di crescita e la garanzia di posizioni di bilancio sane costituiscono i due pilastri della politica economica e di bilancio dell'Unione e degli Stati membri",
+				"answer": {
+					"score": 0.8859983682632446,
+					"start": 198053,
+					"end": 198078,
+					"answer": "regolamenti del Consiglio",
+					"print_answer": "regolamenti del Consiglio"
+				},
+				"similarity": -0.040295787155628207
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:35:09.706511",
+				"eval_qa_end_date": "21/05/2023 14:35:23.409764",
+				"id": "1",
+				"question": "How shall the Union act under the principle of attribution?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "16",
+				"expected_answer": "Within the limits of the competences conferred upon it by the Member States in the Treaties to attain the objectives set out therein",
+				"answer": {
+					"score": 0.6911632418632507,
+					"start": 435317,
+					"end": 435340,
+					"answer": "cooperazione rafforzata",
+					"print_answer": "cooperazione rafforzata",
+					"translation": true,
+					"translatedAnswer": "enhanced cooperation",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": 0.07518862187862396
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:35:24.505704",
+				"eval_qa_end_date": "21/05/2023 14:35:38.142912",
+				"id": "2",
+				"question": "What functions did the Council exercise, jointly with the European Parliament?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "22",
+				"expected_answer": "Legislative and budgetary functions",
+				"answer": {
+					"score": 0.8836788535118103,
+					"start": 159922,
+					"end": 159940,
+					"answer": "giudici ad interim",
+					"print_answer": "giudici ad interim",
+					"translation": true,
+					"translatedAnswer": "interim judges",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": 0.17366653680801392
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:35:39.214333",
+				"eval_qa_end_date": "21/05/2023 14:35:52.903595",
+				"id": "3",
+				"question": "What is the nature of ruling of the president or the Judge replacing him?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "63",
+				"expected_answer": "Shall be provisional and shall in no way prejudice the decision of the Court on the substance of the case",
+				"answer": {
+					"score": 0.9582527279853821,
+					"start": 141507,
+					"end": 141518,
+					"answer": "provvisorio",
+					"print_answer": "provvisorio",
+					"translation": true,
+					"translatedAnswer": "provisional",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": 0.22650641202926637
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:35:53.981019",
+				"eval_qa_end_date": "21/05/2023 14:36:07.533903",
+				"id": "4",
+				"question": "What in particular should the statutes of the national central banks provide for?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "80",
+				"expected_answer": "The term of office of a Governor of a national central bank shall be no less than five years",
+				"answer": {
+					"score": 0.931189239025116,
+					"start": 249403,
+					"end": 249414,
+					"answer": "articolo 21",
+					"print_answer": "articolo 21",
+					"translation": true,
+					"translatedAnswer": "Article 21",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": -0.0251933503895998
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:36:08.613831",
+				"eval_qa_end_date": "21/05/2023 14:36:22.412451",
+				"id": "5",
+				"question": "Why does the Bank of England pay its subscription to the capital of the ECB?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "129",
+				"expected_answer": "As a contribution to its operational costs on the same basis as national central banks of Member States with a derogation",
+				"answer": {
+					"score": 0.9201318025588989,
+					"start": 276805,
+					"end": 276825,
+					"answer": "trattato di \nLisbona",
+					"print_answer": "trattato di \nLisbona",
+					"translation": true,
+					"translatedAnswer": "Treaty of Lisbon",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": -0.015033556148409844
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:36:23.478867",
+				"eval_qa_end_date": "21/05/2023 14:36:37.136348",
+				"id": "6",
+				"question": "What does the Conference confirms with regard to Article 126?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "185",
+				"expected_answer": "That raising growth potential and securing sound budgetary positions are the two pillars of the economic and fiscal policy of the Union and the Member States",
+				"answer": {
+					"score": 0.8951650261878967,
+					"start": 235337,
+					"end": 235348,
+					"answer": "articolo 14",
+					"print_answer": "articolo 14",
+					"translation": true,
+					"translatedAnswer": "Article 14",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": -0.008667243644595147
+			}
+		]
+	},
+	"eu_204_en.pdf": {
+		"name": "eu_204_en.pdf",
+		"page_num": "204",
+		"lang": "en",
+		"eval_start_date": "21/05/2023 14:36:38.205267",
+		"eval_end_date": "21/05/2023 14:39:22.994797",
+		"eval_qa_list": [
+			{
+				"eval_qa_start_date": "21/05/2023 14:36:38.436465",
+				"eval_qa_end_date": "21/05/2023 14:36:48.408462",
+				"id": "1",
+				"question": "How shall the Union act under the principle of attribution?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "16",
+				"expected_answer": "Within the limits of the competences conferred upon it by the Member States in the Treaties to attain the objectives set out therein",
+				"answer": {
+					"score": 0.409624308347702,
+					"start": 80993,
+					"end": 81033,
+					"answer": "after consulting the European Parliament",
+					"print_answer": "after consulting the European Parliament"
+				},
+				"similarity": 0.06779294461011887
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:36:49.483885",
+				"eval_qa_end_date": "21/05/2023 14:36:59.409241",
+				"id": "2",
+				"question": "What functions did the Council exercise, jointly with the European Parliament?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "22",
+				"expected_answer": "Legislative and budgetary functions",
+				"answer": {
+					"score": 0.5915194749832153,
+					"start": 45041,
+					"end": 45077,
+					"answer": "legislative and budgetary \nfunctions",
+					"print_answer": "legislative and budgetary \nfunctions"
+				},
+				"similarity": 0.9864516854286194
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:37:00.479160",
+				"eval_qa_end_date": "21/05/2023 14:37:10.451230",
+				"id": "3",
+				"question": "What is the nature of ruling of the president or the Judge replacing him?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "63",
+				"expected_answer": "Shall be provisional and shall in no way prejudice the decision of the Court on the substance of the case",
+				"answer": {
+					"score": 0.7212126851081848,
+					"start": 138851,
+					"end": 138862,
+					"answer": "provisional",
+					"print_answer": "provisional"
+				},
+				"similarity": 0.22650641202926637
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:37:11.513642",
+				"eval_qa_end_date": "21/05/2023 14:37:21.526437",
+				"id": "4",
+				"question": "What in particular should the statutes of the national central banks provide for?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "80",
+				"expected_answer": "The term of office of a Governor of a national central bank shall be no less than five years",
+				"answer": {
+					"score": 0.4708995521068573,
+					"start": 289885,
+					"end": 289942,
+					"answer": "to settle certain particular problems relating to Denmark",
+					"print_answer": "to settle certain particular problems relating to Denmark"
+				},
+				"similarity": 0.05700375512242317
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:37:22.597857",
+				"eval_qa_end_date": "21/05/2023 14:37:32.612054",
+				"id": "5",
+				"question": "Why does the Bank of England pay its subscription to the capital of the ECB?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "129",
+				"expected_answer": "As a contribution to its operational costs on the same basis as national central banks of Member States with a derogation",
+				"answer": {
+					"score": 0.25594010949134829,
+					"start": 364503,
+					"end": 364532,
+					"answer": "Journal of the European Union",
+					"print_answer": "Journal of the European Union"
+				},
+				"similarity": -0.03556053340435028
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:37:33.668462",
+				"eval_qa_end_date": "21/05/2023 14:37:43.513916",
+				"id": "6",
+				"question": "What does the Conference confirms with regard to Article 126?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "185",
+				"expected_answer": "That raising growth potential and securing sound budgetary positions are the two pillars of the economic and fiscal policy of the Union and the Member States",
+				"answer": {
+					"score": 0.09698588401079178,
+					"start": 390208,
+					"end": 390272,
+					"answer": "raising growth potential and securing \nsound budgetary positions",
+					"print_answer": "raising growth potential and securing \nsound budgetary positions"
+				},
+				"similarity": 0.6632219552993774
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:37:44.574826",
+				"eval_qa_end_date": "21/05/2023 14:37:59.585309",
+				"id": "1",
+				"question": "In che modo agisce l'Unione in virtù del principio di attribuzione?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "16",
+				"expected_answer": "Esclusivamente nei limiti delle competenze che le sono attribuite dagli Stati membri nei trattati per realizzare gli obiettivi da questi stabiliti",
+				"answer": {
+					"score": 0.37877845764160159,
+					"start": 80993,
+					"end": 81033,
+					"answer": "after consulting the European Parliament",
+					"print_answer": "after consulting the European Parliament",
+					"translation": true,
+					"translatedAnswer": "previa consultazione del Parlamento europeo",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.028316376730799676
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:38:00.651725",
+				"eval_qa_end_date": "21/05/2023 14:38:15.981371",
+				"id": "2",
+				"question": "Quali funzioni esercit il Consiglio, congiuntamente al Parlamento europeo?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "22",
+				"expected_answer": "La funzione legislativa e la funzione di bilancio",
+				"answer": {
+					"score": 0.29702845215797427,
+					"start": 45032,
+					"end": 45077,
+					"answer": "exercise legislative and budgetary \nfunctions",
+					"print_answer": "exercise legislative and budgetary \nfunctions",
+					"translation": true,
+					"translatedAnswer": "esercitare funzioni legislative e di bilancio",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.9053151607513428
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:38:17.054793",
+				"eval_qa_end_date": "21/05/2023 14:38:32.324046",
+				"id": "3",
+				"question": "Che carattere ha l'ordinanza pronunciata dal presidente o dal suo sostituto?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "63",
+				"expected_answer": "Carattere provvisorio e non pregiudica in nulla la decisione della Corte sul merito",
+				"answer": {
+					"score": 0.5741720795631409,
+					"start": 138851,
+					"end": 138862,
+					"answer": "provisional",
+					"print_answer": "provisional",
+					"translation": true,
+					"translatedAnswer": "provvisorio",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.17816591262817384
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:38:33.397968",
+				"eval_qa_end_date": "21/05/2023 14:38:48.879339",
+				"id": "4",
+				"question": "Cosa devono prevedere in particolare gli statuti delle banche centrali nazionali?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "81",
+				"expected_answer": "Che la durata del mandato del governatore della banca centrale nazionale non sia inferiore a cinque anni",
+				"answer": {
+					"score": 0.15491703152656556,
+					"start": 364503,
+					"end": 364532,
+					"answer": "Journal of the European Union",
+					"print_answer": "Journal of the European Union",
+					"translation": true,
+					"translatedAnswer": "Gazzetta dell'Unione europea",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.0162938442081213
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:38:49.946255",
+				"eval_qa_end_date": "21/05/2023 14:39:05.387370",
+				"id": "5",
+				"question": "Perché la Banca d'Inghilterra versa la propria sottoscrizione al capitale della BCE?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "129",
+				"expected_answer": "Per coprire i costi operativi sulla stessa base delle banche centrali nazionali degli Stati membri con deroga",
+				"answer": {
+					"score": 0.23449087142944337,
+					"start": 286982,
+					"end": 287025,
+					"answer": "as a contribution to \nits operational costs",
+					"print_answer": "as a contribution to \nits operational costs",
+					"translation": true,
+					"translatedAnswer": "come contributo ai suoi costi operativi",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.4079718589782715
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:39:06.467796",
+				"eval_qa_end_date": "21/05/2023 14:39:21.931885",
+				"id": "6",
+				"question": "Cosa conferma la conferenza riguardo all'articolo 126?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "185",
+				"expected_answer": "Che l'aumento del potenziale di crescita e la garanzia di posizioni di bilancio sane costituiscono i due pilastri della politica economica e di bilancio dell'Unione e degli Stati membri",
+				"answer": {
+					"score": 0.09391652047634125,
+					"start": 390208,
+					"end": 390272,
+					"answer": "raising growth potential and securing \nsound budgetary positions",
+					"print_answer": "raising growth potential and securing \nsound budgetary positions",
+					"translation": true,
+					"translatedAnswer": "aumentare il potenziale di crescita e garantire una sana posizione di bilancio",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.6909710168838501
+			}
+		]
+	},
+	"qa_5_it.pdf": {
+		"name": "qa_5_it.pdf",
+		"page_num": "5",
+		"lang": "it",
+		"eval_start_date": "21/05/2023 14:39:22.995298",
+		"eval_end_date": "21/05/2023 14:40:04.083078",
+		"eval_qa_list": [
+			{
+				"eval_qa_start_date": "21/05/2023 14:39:23.047343",
+				"eval_qa_end_date": "21/05/2023 14:39:24.489380",
+				"id": "1",
+				"question": "Cosa include il pacchetto anticorruzione?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "1",
+				"expected_answer": "Il pacchetto anticorruzione odierno comprende in primo luogo una comunicazione sulla lotta contro la corruzione nell'UE, che fornisce una panoramica della legislazione e delle politiche anticorruzione esistenti nell'UE, fa il punto sulle sfide e riflette su come intensificare la futura azione dell'UE.",
+				"answer": {
+					"score": 0.8780152797698975,
+					"start": 260,
+					"end": 318,
+					"answer": "una comunicazione sulla lotta contro la\ncorruzione nell'UE",
+					"print_answer": "una comunicazione sulla lotta contro la\ncorruzione nell'UE"
+				},
+				"similarity": 0.4631125330924988
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:39:25.547288",
+				"eval_qa_end_date": "21/05/2023 14:39:26.924762",
+				"id": "2",
+				"question": "La direttiva introduce norme in materia di dichiarazione patrimoniale, lobbying e porte girevoli?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "2",
+				"expected_answer": "La direttiva include misure relative a tutti e tre questi aspetti",
+				"answer": {
+					"score": 0.033494893461465839,
+					"start": 543,
+					"end": 584,
+					"answer": "una direttiva sulla lotta alla corruzione",
+					"print_answer": "una direttiva sulla lotta alla corruzione"
+				},
+				"similarity": 0.2969459891319275
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:39:28.000185",
+				"eval_qa_end_date": "21/05/2023 14:39:29.365866",
+				"id": "3",
+				"question": "Cosa farà la rete anticorruzione dell'UE?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "3",
+				"expected_answer": "La rete svilupperà migliori prassi e orientamenti pratici in vari settori di interesse comune. Sosterrà inoltre una raccolta più sistematica di dati e prove che possano costituire una base solida per le azioni anticorruzione e per monitorarne il successo.",
+				"answer": {
+					"score": 0.8408241271972656,
+					"start": 9927,
+					"end": 9990,
+					"answer": "contribuire a prevenire, individuare e combattere la corruzione",
+					"print_answer": "contribuire a prevenire, individuare e combattere la corruzione"
+				},
+				"similarity": 0.17613621056079865
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:39:30.433282",
+				"eval_qa_end_date": "21/05/2023 14:39:31.816456",
+				"id": "4",
+				"question": "Quali atti di corruzione saranno oggetto del quadro di sanzioni proposto?",
+				"lang": "it",
+				"translated": false,
+				"question_page": "4",
+				"expected_answer": "Il quadro consentirà all'UE di adottare misure restrittive quando atti di corruzione compromettono o rischiano di compromettere gravemente gli obiettivi della politica estera e di sicurezza comune",
+				"answer": {
+					"score": 0.8593140244483948,
+					"start": 19189,
+					"end": 19203,
+					"answer": "diritto penale",
+					"print_answer": "diritto penale"
+				},
+				"similarity": -0.017071036621928216
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:39:32.879369",
+				"eval_qa_end_date": "21/05/2023 14:39:39.750648",
+				"id": "1",
+				"question": "What is included in the anti-corruption package?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "1",
+				"expected_answer": "Today's anti-corruption package consists of a Communication on the fight against corruption in the EU, which provides an overview of existing EU anti-corruption legislation and policies, takes stock of challenges and reflects on how to step-up future EU action.",
+				"answer": {
+					"score": 0.8556042313575745,
+					"start": 260,
+					"end": 318,
+					"answer": "una comunicazione sulla lotta contro la\ncorruzione nell'UE",
+					"print_answer": "una comunicazione sulla lotta contro la\ncorruzione nell'UE",
+					"translation": true,
+					"translatedAnswer": "Communication on the fight against corruption in the EU",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": 0.49768415093421938
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:39:40.834078",
+				"eval_qa_end_date": "21/05/2023 14:39:47.534783",
+				"id": "2",
+				"question": "Does the Directive introduce rules on asset declaration, lobbying and revolving doors?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "2",
+				"expected_answer": "The Directive covers measures on all these three aspects",
+				"answer": {
+					"score": 0.8417408466339111,
+					"start": 7524,
+					"end": 7550,
+					"answer": "dichiarazione patrimoniale",
+					"print_answer": "dichiarazione patrimoniale",
+					"translation": true,
+					"translatedAnswer": "balance sheet statement",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": 0.055809542536735538
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:39:48.599198",
+				"eval_qa_end_date": "21/05/2023 14:39:55.280923",
+				"id": "3",
+				"question": "What will the EU network on corruption do?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "3",
+				"expected_answer": "It will be tasked to develop best practices and practical guidance in various areas of common interest. It will also support a more systematic gathering of data and evidence that can serve as a solid basis for anti-corruption actions and for monitoring the success of these actions.",
+				"answer": {
+					"score": 0.9056321978569031,
+					"start": 19031,
+					"end": 19086,
+					"answer": "rafforzare l'azione dell'UE nella lotta alla corruzione",
+					"print_answer": "rafforzare l'azione dell'UE nella lotta alla corruzione",
+					"translation": true,
+					"translatedAnswer": "strengthening EU action in the fight against corruption",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": 0.2501782774925232
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:39:56.348340",
+				"eval_qa_end_date": "21/05/2023 14:40:03.009655",
+				"id": "4",
+				"question": "Which acts of corruption will this proposed sanctions framework target?",
+				"lang": "en",
+				"translated": true,
+				"question_page": "4",
+				"expected_answer": "It will enable the EU to adopt restrictive measures when acts of corruption seriously affect or risk affecting the objectives of the Common Foreign and Security Policy",
+				"answer": {
+					"score": 0.0343746691942215,
+					"start": 740,
+					"end": 783,
+					"answer": "strumenti di diritto penale di alto livello",
+					"print_answer": "strumenti di diritto penale di alto livello",
+					"translation": true,
+					"translatedAnswer": "High-level criminal law instruments",
+					"translatedAnswerLang": "en"
+				},
+				"similarity": 0.112729012966156
+			}
+		]
+	},
+	"qa_5_en.pdf": {
+		"name": "qa_5_en.pdf",
+		"page_num": "5",
+		"lang": "en",
+		"eval_start_date": "21/05/2023 14:40:04.083578",
+		"eval_end_date": null,
+		"eval_qa_list": [
+			{
+				"eval_qa_start_date": "21/05/2023 14:40:04.132620",
+				"eval_qa_end_date": "21/05/2023 14:40:05.870646",
+				"id": "1",
+				"question": "What is included in the anti-corruption package?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "1",
+				"expected_answer": "Today's anti-corruption package consists of a Communication on the fight against corruption in the EU, which provides an overview of existing EU anti-corruption legislation and policies, takes stock of challenges and reflects on how to step-up future EU action.",
+				"answer": {
+					"score": 0.13187988102436067,
+					"start": 240,
+					"end": 297,
+					"answer": "a Communication on the fight against corruption in the\nEU",
+					"print_answer": "a Communication on the fight against corruption in the\nEU"
+				},
+				"similarity": 0.49200665950775149
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:40:06.922049",
+				"eval_qa_end_date": "21/05/2023 14:40:08.490641",
+				"id": "2",
+				"question": "Does the Directive introduce rules on asset declaration, lobbying and revolving doors?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "2",
+				"expected_answer": "The Directive covers measures on all these three aspects",
+				"answer": {
+					"score": 0.05863010138273239,
+					"start": 4028,
+					"end": 4063,
+					"answer": "It provides a coherent set of rules",
+					"print_answer": "It provides a coherent set of rules"
+				},
+				"similarity": 0.1366209089756012
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:40:09.550050",
+				"eval_qa_end_date": "21/05/2023 14:40:11.094883",
+				"id": "3",
+				"question": "What will the EU network on corruption do?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "3",
+				"expected_answer": "It will be tasked to develop best practices and practical guidance in various areas of common interest. It will also support a more systematic gathering of data and evidence that can serve as a solid basis for anti-corruption actions and for monitoring the success of these actions.",
+				"answer": {
+					"score": 0.1237204298377037,
+					"start": 9466,
+					"end": 9503,
+					"answer": "to map common high-risk\nareas by 2024",
+					"print_answer": "to map common high-risk\nareas by 2024"
+				},
+				"similarity": 0.04555714875459671
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:40:12.165300",
+				"eval_qa_end_date": "21/05/2023 14:40:13.704412",
+				"id": "4",
+				"question": "Which acts of corruption will this proposed sanctions framework target?",
+				"lang": "en",
+				"translated": false,
+				"question_page": "4",
+				"expected_answer": "It will enable the EU to adopt restrictive measures when acts of corruption seriously affect or risk affecting the objectives of the Common Foreign and Security Policy",
+				"answer": {
+					"score": 0.46440374851226809,
+					"start": 1072,
+					"end": 1108,
+					"answer": "serious acts of\ncorruption worldwide",
+					"print_answer": "serious acts of\ncorruption worldwide"
+				},
+				"similarity": 0.289082407951355
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:40:14.778834",
+				"eval_qa_end_date": "21/05/2023 14:40:21.565894",
+				"id": "1",
+				"question": "Cosa include il pacchetto anticorruzione?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "1",
+				"expected_answer": "Il pacchetto anticorruzione odierno comprende in primo luogo una comunicazione sulla lotta contro la corruzione nell'UE, che fornisce una panoramica della legislazione e delle politiche anticorruzione esistenti nell'UE, fa il punto sulle sfide e riflette su come intensificare la futura azione dell'UE.",
+				"answer": {
+					"score": 0.42956075072288515,
+					"start": 240,
+					"end": 297,
+					"answer": "a Communication on the fight against corruption in the\nEU",
+					"print_answer": "a Communication on the fight against corruption in the\nEU",
+					"translation": true,
+					"translatedAnswer": "una comunicazione sulla lotta contro la corruzione nell'UE",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.4631125330924988
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:40:22.643319",
+				"eval_qa_end_date": "21/05/2023 14:40:29.543367",
+				"id": "2",
+				"question": "La direttiva introduce norme in materia di dichiarazione patrimoniale, lobbying e porte girevoli?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "2",
+				"expected_answer": "La direttiva include misure relative a tutti e tre questi aspetti",
+				"answer": {
+					"score": 0.054268427193164828,
+					"start": 4028,
+					"end": 4063,
+					"answer": "It provides a coherent set of rules",
+					"print_answer": "It provides a coherent set of rules",
+					"translation": true,
+					"translatedAnswer": "Esso fornisce un insieme coerente di norme",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.22200550138950349
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:40:30.629299",
+				"eval_qa_end_date": "21/05/2023 14:40:37.451311",
+				"id": "3",
+				"question": "Cosa farà la rete anticorruzione dell'UE?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "3",
+				"expected_answer": "La rete svilupperà migliori prassi e orientamenti pratici in vari settori di interesse comune. Sosterrà inoltre una raccolta più sistematica di dati e prove che possano costituire una base solida per le azioni anticorruzione e per monitorarne il successo.",
+				"answer": {
+					"score": 0.2220022827386856,
+					"start": 9466,
+					"end": 9503,
+					"answer": "to map common high-risk\nareas by 2024",
+					"print_answer": "to map common high-risk\nareas by 2024",
+					"translation": true,
+					"translatedAnswer": "mappare le aree comuni ad alto rischio entro il 2024",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.046530432999134067
+			},
+			{
+				"eval_qa_start_date": "21/05/2023 14:40:38.514224",
+				"id": "4",
+				"question": "Quali atti di corruzione saranno oggetto del quadro di sanzioni proposto?",
+				"lang": "it",
+				"translated": true,
+				"question_page": "4",
+				"expected_answer": "Il quadro consentirà all'UE di adottare misure restrittive quando atti di corruzione compromettono o rischiano di compromettere gravemente gli obiettivi della politica estera e di sicurezza comune",
+				"answer": {
+					"score": 0.2477584332227707,
+					"start": 1072,
+					"end": 1108,
+					"answer": "serious acts of\ncorruption worldwide",
+					"print_answer": "serious acts of\ncorruption worldwide",
+					"translation": true,
+					"translatedAnswer": "gravi atti di corruzione in tutto il mondo",
+					"translatedAnswerLang": "it"
+				},
+				"similarity": 0.2440412938594818
+			}
+		]
+	}
+}

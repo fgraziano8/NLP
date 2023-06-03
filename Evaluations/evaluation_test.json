@@ -1,0 +1,65 @@
+{
+	"qa_3_en.pdf": {
+		"name": "qa_3_en.pdf",
+		"page_num": "3",
+		"lang": "en",
+		"qa_list": [
+			{
+				"id": "1",
+				"question": "What is the Emergency Support Instrument?",
+				"lang": "en",
+				"question_page": "",
+				"expected_answer": "The Emergency Support Instrument (ESI) allows the EU budget to step in to provide emergency support."
+			},
+			{
+				"id": "2",
+				"question": "What is the budget available under the ESI?",
+				"lang": "en",
+				"question_page": "",
+				"expected_answer": "The total ESI budget is €2.7 billion."
+			},
+			{
+				"id": "1",
+				"question": "Che cos'è lo strumento per il sostegno di emergenza?",
+				"lang": "it",
+				"question_page": "",
+				"expected_answer": "Lo strumento per il sostegno di emergenza (Emergency Support Instrument, ESI) consente al bilancio dell'UE di intervenire per fornire un sostegno di emergenza."
+			},
+			{
+				"id": "2",
+				"question": "Qual è la dotazione disponibile nell'ambito dell'ESI?",
+				"lang": "it",
+				"question_page": "",
+				"expected_answer": "La dotazione totale dell'ESI ammonta a 2,7 miliardi di €."
+			}
+		]
+	},
+	"qa_3_it.pdf": {
+		"name": "qa_3_it.pdf",
+		"page_num": "3",
+		"lang": "it",
+		"qa_list": [
+			{
+				"id": "1",
+				"question": "Che cos'è lo strumento per il sostegno di emergenza?",
+				"lang": "it",
+				"question_page": "",
+				"expected_answer": "Lo strumento per il sostegno di emergenza (Emergency Support Instrument, ESI) consente al bilancio dell'UE di intervenire per fornire un sostegno di emergenza."
+			},
+			{
+				"id": "2",
+				"question": "Qual è la dotazione disponibile nell'ambito dell'ESI?",
+				"lang": "it",
+				"question_page": "",
+				"expected_answer": "La dotazione totale dell'ESI ammonta a 2,7 miliardi di €."
+			},
+			{
+				"id": "3",
+				"question": "In che modo gli Stati membri possono contribuire a definire le priorità nell'ambito dell'ESI?",
+				"lang": "it",
+				"question_page": "",
+				"expected_answer": "La Commissione utilizza diversi canali per raccogliere dagli Stati membri informazioni sulle loro esigenze, risorse e iniziative in corso e valutare quindi la pertinenza di eventuali azioni e il relativo valore aggiunto dell'UE."
+			}
+		]
+	}
+}
